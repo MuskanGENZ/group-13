@@ -13,17 +13,17 @@ const Header = () => {
       <div class="collapse navbar-collapse" id="navbarsExample03">
        
         <ul class="navbar-nav me-auto mb-2 mb-sm-0">
-          <li class="nav-item">
-            <Link class="nav-link active" aria-current="page" to="/">Home</Link>
+          <li class="btn text-light text-decoration-none">
+            <Link class="text-light text-decoration-none" aria-current="page" to="/">Home</Link>
           </li>
-          <li class="nav-item">
-            <Link class="nav-link" to="/Bmi">BMI</Link>
+          <li class="btn text-light text-decoration-none">
+            <Link class="text-light text-decoration-none" to="/Bmi">BMI</Link>
           </li>
-          <li class="nav-item">
-            <Link class="nav-link" to="/Product">Product</Link>
+          <li class="btn text-light text-decoration-none">
+            <Link class="text-light text-decoration-none" to="/Product">Product</Link>
           </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="dropdown03" data-bs-toggle="dropdown" aria-expanded="false">Specialities</a>
+          <li class="btn text-light text-decoration-none dropdown">
+            <a class="text-light text-decoration-none dropdown-toggle" href="#" id="dropdown03" data-bs-toggle="dropdown" aria-expanded="false">Specialities</a>
             <ul class="dropdown-menu" aria-labelledby="dropdown03">
               <li><a class="dropdown-item" href="#">YOGA</a></li>
               <li><a class="dropdown-item" href="#">AEROBICS</a></li>

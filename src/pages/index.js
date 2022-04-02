@@ -1,12 +1,14 @@
 import React from "react"
+import Features from "../component/Features/Features"
+import Hero from "../component/Hero/Hero"
 import Layout from "../component/Layout/Layout"
 
  const Index = () => {
   return (
   
     <Layout>
-  <div className="text-primary">test</div>  
-    Hello world!
+  <Hero/>
+  <Features/>
     
     
     </Layout>
