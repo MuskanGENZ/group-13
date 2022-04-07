@@ -1,0 +1,35 @@
+body, #qwe{
+    background-color:rgb(243, 227, 231);
+}
+
+ .col-lg-4 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+
+  /* rtl:begin:ignore */
+ .col-lg-4 p {
+    margin-right: .75rem;
+    margin-left: .75rem;
+  }
+  #colo{
+    background-color:rgb(216, 215, 175);
+  }
+  .navbar
+  {
+    background-color: rgb(162, 223, 184);
+  }
+
+.btn:hover
+{
+  background-color:rgb(219, 222, 196);
+}
+hr{
+  background:none;
+	clear:both;
+	float:none;
+	width:100%;
+	height:1px;
+	border:none;
+	margin:-1px 0;
+}

@@ -1,83 +1,104 @@
 import React from "react"
-import {
-  Bootstrap,
-  Calendar3,
-  CpuFill,
-  GeoFill,
-  House,
-  Speedometer2,
-  Toggles2,
-  Tools,
-} from "react-bootstrap-icons"
-
-const Items = [
-  {
-    icon: <Bootstrap />,
-    title: "Bootstrap Title",
-    description: "Bootstrap description paragraph.",
-  },
-  {
-    icon: <Calendar3 />,
-    title: "Calender 3",
-    description: "Calender 3 Calender 3 Calender 3",
-  },
-  
-  {
-    icon: <CpuFill />,
-    title: "Calender 3",
-    description: "Calender 3 Calender 3 Calender 3",
-  },
-  {
-    icon: <GeoFill />,
-    title: "Calender 3",
-    description: "Calender 3 Calender 3 Calender 3",
-  },
-  {
-    icon: <House />,
-    title: "Calender 3",
-    description: "Calender 3 Calender 3 Calender 3",
-  },
-  {
-    icon: <Speedometer2 />,
-    title: "Calender 3",
-    description: "Calender 3 Calender 3 Calender 3",
-  },
-  {
-    icon: <Toggles2 />,
-    title: "Calender 3",
-    description: "Calender 3 Calender 3 Calender 3",
-  },
-  {
-    icon: <Tools />,
-    title: "Calender 3",
-    description: "Calender 3 Calender 3 Calender 3",
-  },
-]
+import { Link } from "gatsby"
+import {  } from "react-bootstrap-icons"
 
 const Features = () => {
   return (
-    <div className="container px-4 py-5" id="icon-grid">
-      <h2 className="pb-2 border-bottom text-center">Features</h2>
-      <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4 py-5">
-        {Items.map((item, i) => {
-          return (
-            <div key={i} className="col d-flex align-items-start">
-              <div
-                className="bi text-muted flex-shrink-0 me-3"
-                style={{ fontSize: "2rem" }}
-              >
-                {item.icon}
-              </div>
+    <>
+    <hr style={{ margin: "40px 0" }} />
+    
+    <div className="container my-4" style={{display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
+      <h6 className="text-primary"><i>SERVICES WE PROVIDE</i></h6>
+      <h1 className="text-md">OUR SERVICES</h1>
 
-              <div>
-                <h4 className="fw-bold mb-0">{item.title}</h4>
-                <p>{item.description}</p>
-              </div>
-            </div>
-          )
-        })}
+      <p>
+        <i>It will be as simple as occidental. In fact, it will be Occidental.</i>
+      </p>
+    </div>
+    <div class="container">
+    <div class="row">
+      <div class="col-lg-4"id="qwerty">
+        <img alt="Card image cap" width="140" height="140" class="bd-placeholder-img rounded-circle shadow-lg" src="https://res.cloudinary.com/grohealth/image/upload/f_auto,fl_lossy,q_auto/v1583505191/DCUK/Content/iStock-528072248-1000x600.jpg" />
+
+        <h4>BMI</h4>
+        <p><i>Use this calculator to check your body mass index (BMI) and find out if you're a healthy weight or not</i></p>
+        <p><Link class="btn btn-secondary" to="/Bmi">View details &raquo;</Link></p>
+      </div>
+      <div class="col-lg-4">
+      <img alt="Card image cap" width="140" height="140" class="bd-placeholder-img rounded-circle shadow-lg" src="https://www.yogabaron.com/wp-content/uploads/2018/12/Yoga-props-mat-block-straps-dec17.jpg" />
+
+        <h4>PRODUCT</h4>
+        <p><i>Are you a yoga enthusiast and in search of the appropriate equipment and accessories?Click on view details.</i></p>
+        <p><Link class="btn btn-secondary" to="/Product">View details &raquo;</Link></p>
+      </div>
+      <div class="col-lg-4">
+      <img alt="Card image cap" width="140" height="140" class="bd-placeholder-img rounded-circle shadow-lg" src="https://images.squarespace-cdn.com/content/v1/57df5e78cd0f68d6293275ea/1578600529190-L2IX267KCEX1LWENO14I/Surya+Namaskar+A+-+Jan+Cummins+2.jpg?format=1000w" />
+        <h4>SURYA NAMASKAR</h4>
+        <p><i>Surya namaskar is not just a yoga pose to the sun. It has many benefits that help boost your overall health.</i></p>
+        <p><Link class="btn btn-secondary" to="/Surya">View details &raquo;</Link></p>
       </div>
     </div>
+
+    </div>
+    <hr style={{ margin: "40px 0" }} />
+    <div className="container my-4" style={{display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
+      <h4 className="text-primary">FIT ME</h4>
+      <h2 className="text-md"><i>What our CLIENTS says</i></h2>
+      {/* <p>
+        It will be as simple as occidental. In fact, it will be Occidental.
+      </p> */}
+    </div>
+      <div className="container">
+        <div className="row featurette">
+          <div className="col-md-7">
+            <h2 className="featurette-heading">
+              <span className="text-muted">Rashmi</span>
+            </h2>
+            <p className="lead">
+            <i> "After years of back problems and poor posture yoga has provided me relief and after several months I could notice a significant improvement. Previously I tried acupuncture, physio therapy, massage, chiropractor and nothing provided me the results as yoga. I am really excited as I know as I continue I will keep strengthening and improving my body and self awareness. A super big thanks to teacher, Versha, who enlightened me and got me going, and to Ishita, both of whom have made such a difference in my life."</i>
+            </p>
+          </div>
+          <div className="col-md-5">
+            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://t4.ftcdn.net/jpg/03/30/25/97/360_F_330259751_tGPEAq5F5bjxkkliGrb97X2HhtXBDc9x.jpg" />
+          </div>
+        </div>
+
+        <hr className="featurette-divider" style={{margin: "40px"}}></hr>
+
+        <div className="row featurette">
+          <div className="col-md-7 order-md-2">
+            <h2 className="featurette-heading">
+            
+              <span className="text-muted">Shweta</span>
+            </h2>
+            <p className="lead">
+           <i>"
+I have enjoyed your classes immensely. I have tried several classes whilst being in India and found yours so friendly, caring and great instruction of the movements of yoga poses. I must say your instructors are very thorough with their approach and explanation of the poses and I really enjoy them and their humour as well! Having practiced yoga for only 5 years now, I was searching for a class that captures the philosophy and presence of movement that calms my mind and keeps my body healthy and strong; I have found these things with your yoga classes. Thank you."</i>
+            </p>
+          </div>
+          <div className="col-md-5 order-md-1">
+          <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://t4.ftcdn.net/jpg/02/46/34/43/360_F_246344306_E4KQf8mvvWsCAwrSMEEY6GUOa22TjiUn.jpg" />
+          </div>
+        </div>
+
+        <hr className="featurette-divider" style={{margin: "40px"}}></hr>
+
+        <div className="row featurette">
+          <div className="col-md-7">
+            <h2 className="featurette-heading">
+           <span className="text-muted">Veer</span>
+            </h2>
+            <p className="lead">
+              <i>"I love the FITME experience. The authenticity, energy, expertise, TLC, inclusiveness, kindness, thoughtfulness are the type of things I appreciate the very most and you nurture that beautifully.I've developed my practice by attending a range of classes, but more importantly, I feel I've developed a deeper understanding of the art of yoga.I enjoy the variety of classes, I can always find a class that suits my mood perfectly."</i>
+            </p>
+          </div>
+          <div className="col-md-5">
+          <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://media.istockphoto.com/photos/living-that-urban-life-picture-id1165314750?k=20&m=1165314750&s=612x612&w=0&h=QcN0aTHS8IpSbNEnSU9Vno8vUjCEFQs4gbZ72dG6yvM=" />
+          </div>
+        </div>
+      </div>
+   
+  </>
   )
 }
 

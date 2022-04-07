@@ -1,10 +1,10 @@
 import React from "react"
 import Layout from "../component/Layout/Layout"
- const Product = () => {
-   return (
+ const Blog = () => {
+  return (
     <Layout>
-  <div>Hello world!</div>
+  <div>blog</div>
   </Layout>
   )
 }
-export default Product
+export default Blog
