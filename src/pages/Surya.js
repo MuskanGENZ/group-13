@@ -29,7 +29,7 @@ import Layout from "../component/Layout/Layout"
   <section class="py-3 text-center container">
     <div class="row py-lg-5">
       <div class="col-lg-6 col-md-8 mx-auto">
-        <h6 class="lead text-white"><i>“Movement without awareness is exercise. Movement with awareness is yoga.”This sequence of postures is essentially a series of prescribed motions that begins and ends with Tadasana (Mountain Pose). The poses take you through all manner of stretches, forward folds, and backbends that build heat and happen in a rhythmic cadence that’s aligned with your breath.</i></h6>
+        <h6 class="lead"><i>“Movement without awareness is exercise. Movement with awareness is yoga.”This sequence of postures is essentially a series of prescribed motions that begins and ends with Tadasana (Mountain Pose). The poses take you through all manner of stretches, forward folds, and backbends that build heat and happen in a rhythmic cadence that’s aligned with your breath.</i></h6>
       </div>
     </div>
   </section>

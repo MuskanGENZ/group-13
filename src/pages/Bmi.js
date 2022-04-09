@@ -62,7 +62,7 @@ import { Activity, HeartPulseFill, Calendar, StopFill } from "react-bootstrap-ic
            
           </div>
           <div className="col-md-5">
-            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://images.everydayhealth.com/images/apps-really-can-make-a-difference-when-youre-trying-to-lose-weight-alt-1440x810.jpg" />
+            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://thumbs.gfycat.com/ParallelTediousFruitfly-size_restricted.gif" />
             
           </div>
         </div>

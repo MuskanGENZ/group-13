@@ -52,7 +52,7 @@ import { Link } from "gatsby"
             </p>
           </div>
           <div className="col-md-5">
-            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://scontent.famd1-3.fna.fbcdn.net/v/t1.6435-9/33020869_2204395919573745_2959181051890499584_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=OC49VW8HqcAAX9QPbnB&_nc_ht=scontent.famd1-3.fna&oh=00_AT_IW3YxtnAdo_KrkVT_43DH1As1lsSH6JdHD6O7CLieDA&oe=6273F669" />
+            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://www.petaindia.com/wp-content/uploads/2020/09/broccoli-carrot-hug-HAVD-2020-GIF-2.gif" />
           </div>
         </div>
 
@@ -74,11 +74,11 @@ import { Link } from "gatsby"
             </h2>
             <p className="lead">
            <i>"
-           A yoga diet consists of whole, fresh, seasonal foods and organic, locally grown foods, and as close to their natural state as possible. Buy fresh produce that’s in season, and avoid processed and packaged items, even if they are organic.This means always preparing a fresh meal from scratch, rather than relying on frozen vegetables or readily prepared meals, regardless of whether they are technically made up of ‘sattvic’ foods.If you are serious about following a strict diet for your yoga lifestyle, some yogis will even argue that you should go as far as to avoid eating frozen left-overs, even when you have prepared them yourself from fresh foods initially."</i>
+           A yoga diet consists of whole, fresh, seasonal foods and organic, locally grown foods, and as close to their natural state as possible. Buy fresh produce that’s in season, and avoid processed and packaged items, even if they are organic.This means always preparing a fresh meal from scratch, rather than relying on frozen vegetables or readily prepared meals, regardless of whether they are technically made up of ‘sattvic’ foods."</i>
             </p>
           </div>
           <div className="col-md-5 order-md-1">
-          <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://media.istockphoto.com/vectors/plan-your-meal-vector-id506915072?k=20&m=506915072&s=612x612&w=0&h=Gp_xbv8H3-_LIt1Q6TOB025pYD0P5WxNsHyzUuQxURU=" />
+          <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://i.pinimg.com/originals/7a/b5/51/7ab551af887f2a408b1ca517e021fe65.gif" />
           
           </div>
         </div>
