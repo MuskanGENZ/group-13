@@ -13,12 +13,12 @@ import Layout from "../component/Layout/Layout"
     <div class="carousel-item active">
 
 
-<img class="bd-placeholder-img" width="100%" height="100%" src="https://c.ndtvimg.com//yoga_625x300_1529482160763.jpg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"></img>
+<img class="bd-placeholder-img" width="100%" height="100%" src="https://static01.nyt.com/images/2016/12/06/well/move/yoga-for-everyone_promo/yoga-for-everyone_promo-superJumbo-v2.jpg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"></img>
 
       <div class="container">
         <div class="carousel-caption">
           <h1>Surya Namaskar </h1>
-          <p>If you only have 10 minutes to squeeze in your practice, flow through this ancient series of yoga postures, commonly known as Sun Salutations.</p>
+          <h5><i>If you only have 10 minutes to squeeze in your practice, flow through this ancient series of yoga postures, commonly known as Sun Salutations.</i></h5>
           
         </div>
       </div>
@@ -29,7 +29,7 @@ import Layout from "../component/Layout/Layout"
   <section class="py-3 text-center container">
     <div class="row py-lg-5">
       <div class="col-lg-6 col-md-8 mx-auto">
-        <p class="lead text-muted">“Movement without awareness is exercise. Movement with awareness is yoga.”This sequence of postures is essentially a series of prescribed motions that begins and ends with Tadasana (Mountain Pose). The poses take you through all manner of stretches, forward folds, and backbends that build heat and happen in a rhythmic cadence that’s aligned with your breath.</p>
+        <h6 class="lead text-white"><i>“Movement without awareness is exercise. Movement with awareness is yoga.”This sequence of postures is essentially a series of prescribed motions that begins and ends with Tadasana (Mountain Pose). The poses take you through all manner of stretches, forward folds, and backbends that build heat and happen in a rhythmic cadence that’s aligned with your breath.</i></h6>
       </div>
     </div>
   </section>

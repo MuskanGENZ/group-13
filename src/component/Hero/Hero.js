@@ -4,68 +4,91 @@ import React from "react";
 function Hero() {
   return (
     <>
+   
     <div className="mb-4 ">
       <Carousel id="dfg">
         <Carousel.Item>
           <img
             className="d-block w-100"
             style={{height: 700}}
-            src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80"
+            src="https://imgsrv2.voi.id/wtvSOgptpcdxnPxfQu6YrvXmn3nUgINqQFX73_PfKxs/auto/1200/675/sm/1/bG9jYWw6Ly8vcHVibGlzaGVycy82MDgwNi8yMDIxMDYyMTE3NDItbWFpbi5qcGc.jpg"
             alt="First slide"
           />
           <Carousel.Caption>
-            <h3>First slide label</h3>
-            <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+            <h3 className="slideleft">FIT ME</h3>
+            <h5 className="slideleft"><i>"Yoga is the journey of the self, through the self, to the self.”</i></h5>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img
-            className="d-block w-100"
+            className="d-block w-100" 
             style={{height: 700}}
-            src="https://cdn.pixabay.com/photo/2016/11/18/14/15/woman-1834827_960_720.jpg"
-            alt="Second slide"
+            src="https://static01.nyt.com/images/2016/12/02/well/move/yoga_body_images-slide-ZRO9/yoga_body_images-slide-ZRO9-superJumbo.jpg"
           />
 
           <Carousel.Caption>
-            <h3>Second slide label</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <h3 className="slideleft"><i>"Your body is your temple, you should worship it daily.”</i></h3>
+         
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img
             className="d-block w-100"
             style={{height: 700}}
-            src="https://cdn.pixabay.com/photo/2020/07/06/07/19/meditate-5375835_960_720.jpg"
+            src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/yoga-for-beginners-main-1582136732.jpg"
             alt="Third slide"
           />
 
           <Carousel.Caption>
-            <h3>Third slide label</h3>
-            <p>
-              Praesent commodo cursus magna, vel scelerisque nisl consectetur.
-            </p>
+          <h3 className="text-dark slideleft"><i>"Yoga is a light, which once lit will never dim. The better your practice, the brighter your flame.”</i></h3>
           </Carousel.Caption>
         </Carousel.Item>
       </Carousel>
+      </div>
+      <hr style={{ margin: "40px 0" }} />
+    
+    <div className="container my-4" style={{display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
+     
+   
+      <h6 className="text-primary"><i>FIT ME</i></h6>
+      <h1 className="text-md">ABOUT US</h1>
+
+     
+    </div>
+    <div className="container">
+        <div className="row featurette">
+          <div className="col-md-7">
+            <h2 className="featurette-heading">
+         
+            </h2>
+            <p className="lead slideleft">
+            <h3 className="text-primary"><i> About us...</i></h3>
+            <i className="">"We believe that real yoga is not about standing on your head and contorting yourself into knots. Yoga is about finding your centre. It’s a way of developing inner strength."We believe, every being deserves to enjoy a happy and fulfilled life doing the things they love.Our site is aimed for everyone but especially for those that are feeling a bit overwhelmed with life, feeling stressed or anxious, and just need a bit of unconditional love and guidance.You don’t need to be ‘spiritual’ to do yoga and meditation and you can still gain the variety of benefits such as reducing stress, manage anxiety, enhance self-awareness, improve sleep, amongst others.Experiencing freedom of movement and mobility, embracing all life situations with a positive mindset, cultivating a life of abundance and opportunity, blissful sleep, balanced hormones, optimised gut health... do any of these feel out of reach to you right now? If so,scroll down and check out our page.</i>
+            </p>
+          </div>
+          <div className="col-md-5 slideleft">
+            <img alt="Card image cap"   width="500" height="300" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg " src="https://media4.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif?cid=790b76116422e56e0ba781dab931b69587dd1c499bcb0a3b&rid=giphy.gif&ct=g" />
+          </div>
+        </div>
       </div>
 
       <hr style={{ margin: "40px 0" }} />   
 
 <div class="row mx-4">
-  <div class="col-md-6 col-lg-4">
-    <div class="card shadow-lg"><img alt="Card image cap" class="card-img-top img-fluid" src="https://thumbs.dreamstime.com/b/set-your-goals-text-color-notes-office-supplies-black-background-business-concept-set-your-goals-167100524.jpg" />
-      <div class="card-block"id="colo">
-        <h5 class="card-title px-2">1.Get a diet.</h5>
+  <div class="col-md-6 col-lg-4 slideright">
+    <div class="card shadow-lg"><img alt="Card image cap" class="card-img-top img-fluid " src="https://thumbs.gfycat.com/EverlastingImpishHairstreakbutterfly-max-1mb.gif" />
+      <div class="card-block "id="colo">
+        <h5 class="card-title px-2 ">1.Get a diet.</h5>
 
-        <p class="card-text text-muted py-2 px-2" ><i>
+        <p class="card-text text-muted py-2 px-2 " ><i>
         Eat healthy,stay healthy.But even after you’ve picked out a meal plan or eating pattern, maintaining that healthy diet day in and day out has its fair share of difficulties.</i></p>
       </div>
     </div>
   </div>
 
-  <div class="col-md-6 col-lg-4">
-    <div class="card shadow-lg"><img alt="Card image cap" class="card-img-top img-fluid" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtprbuBUyzdiL8caRP_Ou_jZOoYT18eAVEDA&usqp=CAU" />
-      <div class="card-block">
+  <div class="col-md-6 col-lg-4 slideright">
+    <div class="card shadow-lg"><img alt="Card image cap" class="card-img-top img-fluid" src="  https://thumbs.gfycat.com/PleasantUnlinedBuffalo-max-1mb.gif" />
+      <div class="card-block"id="colo">
         <h5 class="card-title px-2">2.Set a schedule.</h5>
 
         <p class="card-text  text-muted py-2 px-2"><i>
@@ -74,9 +97,9 @@ function Hero() {
     </div>
   </div>
 
-  <div class="col-md-6 col-lg-4">
-    <div class="card shadow-lg"><img alt="Card image cap" class="card-img-top img-fluid" src="https://media.istockphoto.com/photos/my-bmi-formula-written-on-a-page-body-mass-index-picture-id635776320?s=612x612" />
-    <div class="card-block">
+  <div class="col-md-6 col-lg-4 slideright">
+    <div class="card shadow-lg"><img alt="Card image cap" class="card-img-top img-fluid" src="https://i.makeagif.com/media/5-14-2017/bmRWJA.gif" />
+    <div class="card-block"id="colo">
         <h5 class="card-title px-2">3.Check BMI</h5>
 
         <p class="card-text text-muted py-2 px-2"><i>
