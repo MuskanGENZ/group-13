@@ -76,10 +76,10 @@ import { Activity, HeartPulseFill, Calendar, StopFill } from "react-bootstrap-ic
         <div className="row featurette">
           <div className="col-md-7">
             <h2 className="featurette-heading">
-              <span className="text-muted"><StopFill class="bi text-muted flex-shrink-0 m-2"></StopFill>Is Body Mass Index reliable?</span>
+              <span className=""><StopFill class="bi text-muted flex-shrink-0 m-2"></StopFill>Is Body Mass Index reliable?</span>
             </h2>
             <p className="lead">
-            <i> "Your BMI, or Body Mass Index, is a measure of your weight compared to your height. he calculator will give you an idea of how your weight compares to common values. Body Mass Index (or BMI) is calculated as your weight (in kilograms) divided by the square of your height (in metres) or BMI = Kg/M2.Accurate assessments of obesity are important, as being overweight or obese significantly increases your risk of a variety of medical conditions including type 2 diabetes, heart disease and cancer. For most adults, BMI gives a good estimate of your weight-related health risks. If your BMI is over 35, your weight is definitely putting your health at risk, regardless of the factors below."</i>
+            <i className="text-muted"> "Your BMI, or Body Mass Index, is a measure of your weight compared to your height. he calculator will give you an idea of how your weight compares to common values. Body Mass Index (or BMI) is calculated as your weight (in kilograms) divided by the square of your height (in metres) or BMI = Kg/M2.Accurate assessments of obesity are important, as being overweight or obese significantly increases your risk of a variety of medical conditions including type 2 diabetes, heart disease and cancer. For most adults, BMI gives a good estimate of your weight-related health risks. If your BMI is over 35, your weight is definitely putting your health at risk, regardless of the factors below."</i>
             </p>
            
           </div>

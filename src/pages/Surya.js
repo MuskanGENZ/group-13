@@ -17,7 +17,7 @@ import Layout from "../component/Layout/Layout"
 
       <div class="container">
         <div class="carousel-caption">
-          <h1>Surya Namaskar </h1>
+          <h1 class="text-white">Surya Namaskar </h1>
           <h5><i>If you only have 10 minutes to squeeze in your practice, flow through this ancient series of yoga postures, commonly known as Sun Salutations.</i></h5>
           
         </div>

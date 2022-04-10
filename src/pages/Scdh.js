@@ -20,8 +20,8 @@ const Scdh = () => {
 
       <div class="container">
         <div class="carousel-caption text-end">
-          <h1>SCHEDULE </h1>
-          <h4><i> You’ve made the decision that now is the time to start yoga.</i></h4>
+          <h1 class="text-white">SCHEDULE </h1>
+          <h4><i class="text-white"> You’ve made the decision that now is the time to start yoga.</i></h4>
           
         </div>
       </div>
@@ -32,23 +32,23 @@ const Scdh = () => {
     <div className="container my-4" style={{display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
       <h4 className="text-primary">FIT ME</h4>
       <h2 className="text-md"><i>What schedule is best when you are a beginner? </i></h2>
-       <p>
+       <p className="text-muted"><i>
       Always consult your doctor if you have any concerns
-      </p> 
+      </i></p> 
     </div>
       <div className="container">
         <div className="row featurette">
           <div className="col-md-7">
             <h2 className="featurette-heading">
-              <span className="text-muted">Set a Goal </span>
+              <span className="text-muted">1.Set a Goal </span>
             </h2>
             <p className="lead">
-            <i> "Goals give you something to focus on and make your wants more tangible. As a beginner, set a 1-month goal to complete 10-12 classes. This is specific, measurable, achievable, realistic and timely. And it will help you build momentum."</i>
+            <i className="text-muted"> "Goals give you something to focus on and make your wants more tangible. As a beginner, set a 1-month goal to complete 10-12 classes. This is specific, measurable, achievable, realistic and timely. And it will help you build momentum.Whether you’re a seasoned yoga practitioner or you’ve literally just bought your very first yoga mat, establishing obtainable goals is pivotal to getting the most out of your practice. Start by asking yourself what it is you want yoga to do for you. Do you want it to bring you less stress? Do you want to increase your flexibility? Do you want to be able to do a handstand?"</i>
             </p>
            
           </div>
           <div className="col-md-5">
-            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://web-static.wrike.com/blog/content/uploads/2020/01/Five-Features-of-a-Good-Monthly-Employee-Work-Schedule-Template.jpg?av=718acbc1e2b21264368f12b5cc57c0e2" />
+            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://images.squarespace-cdn.com/content/v1/5c366bcf71069910811195f8/1559842185151-53JQNT3TAIAR9S330KB5/goals.gif?format=1500w" />
           </div>
         </div>
 
@@ -58,16 +58,16 @@ const Scdh = () => {
           <div className="col-md-7 order-md-2">
             <h2 className="featurette-heading">
             
-              <span className="text-muted">Schedule it </span>
+              <span className="text-muted">2.Schedule it </span>
             </h2>
             <p className="lead">
-           <i>"
+           <i className="text-muted">"
            Put the times you are going to practice yoga on your calendar. It provides a visual reminder and serves as a commitment you have made to yourself.. Making a yoga date with others makes it more social and supportive. But don’t worry if you can’t think of anyone who might want to go, you can join a yoga studio. One of the reasons why yoga studios are popular is that they are communities. You’ll find the same people practice at the same time on the same day. And as you discover your routine you’ll meet others who will become friends"</i>
             </p>
             
           </div>
           <div className="col-md-5 order-md-1">
-          <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://dbdzm869oupei.cloudfront.net/img/sticker/large/14209.jpg" />
+          <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://media2.giphy.com/media/h5FIFDs6rXLpWlWWZJ/giphy.gif?cid=790b7611de9d379fb50fa261d90e191d45fd649894ddd015&rid=giphy.gif&ct=g" />
           
           </div>
         </div>
@@ -79,14 +79,14 @@ const Scdh = () => {
    <span className="text-muted">Bring the Fun</span>
     </h2>
     <p className="lead">
-      <i>"Find a class that you enjoy and consider fun. You’re putting the power of psychology to work for you; if it’s fun, you’ll want to keep doing it.One more plug for psychology—give yourself an incentive. Set up a reward system for when you finish a week of classes or your first month. Having something to look forward to is motivating.
+      <i className="text-muted">"Find a class that you enjoy and consider fun. You’re putting the power of psychology to work for you; if it’s fun, you’ll want to keep doing it.One more plug for psychology—give yourself an incentive.Next time you have to hold a challenging pose, try the simple act of curling the corners of the mouth up into a smile and I guarantee, you will immediately start to enjoy the experience more. Set up a reward system for when you finish a week of classes or your first month. Having something to look forward to is motivating.
  "</i>
     </p>
     
     
   </div>
   <div className="col-md-5">
-  <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://www.badyogi.com/blog/wp-content/uploads/2019/07/How-to-Fit-Yoga-Into-Your-Busy-Schedule-1.png" />
+  <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://blog.yogamatters.com/wp-content/uploads/2020/04/Florence-for-Kids-Yoga-Blog.jpg" />
   </div>
 </div>
 <hr style={{ margin: "40px 0" }} />
