@@ -16,12 +16,12 @@ const Product = () => {
     <div class="carousel-item active">
 
 
-<img class="bd-placeholder-img" width="100%" height="100%" src="https://www.yogajournal.com/wp-content/uploads/2007/08/Surya-Namaskar-A-Sun-Salutation-Urdhva-Mukha-Svanasana-Upward-Facing-Dog-scaled.jpg?crop=535:301&width=1070&enable=upscale" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"></img>
+<img class="bd-placeholder-img" width="100%" height="100%" src="https://cdn2.assets-servd.host/pebble-mag/production/images/_1200x630_crop_center-center_82_none/eco-friendly-yoga-at-home-products_6.jpg?mtime=1596460601" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"></img>
 
       <div class="container">
         <div class="carousel-caption">
-          <h1>Get your gear on</h1>
-          <p>If you only have 10 minutes to squeeze in your practice, flow through this ancient series of yoga postures, commonly known as Sun Salutations.</p>
+          <h1 class="text-white">Get your gear on</h1>
+          <h5><i>You don’t need anything to start a yoga practice, but here’s what you may want as you progress.</i></h5>
           
         </div>
       </div>

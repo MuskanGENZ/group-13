@@ -20,7 +20,7 @@ import RestaurantIcon from '@mui/icons-material/Restaurant';
 
       <div >
         <div class="carousel-caption text-start ">
-          <h1 class="text-white"><RestaurantIcon/>DIET  </h1>
+          <h1 class="text-white"><RestaurantIcon color="secondary"/>DIET  </h1>
           <h4><i class="text-white">If you want to know more about the concept of a yoga diet and exactly what kind of diet is best to complement your yoga practice, then you’re in the right place!</i></h4>
           
         </div>
@@ -124,13 +124,133 @@ import RestaurantIcon from '@mui/icons-material/Restaurant';
     </div>
     </div>
       </div>
- 
+
     <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
     
   </div>
     </div>
+    <div className="container">
+    <table class="table">
+  <thead class="thead-dark">
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">First</th>
+      <th scope="col">Last</th>
+      <th scope="col">Last</th>
+      <th scope="col">Last</th>
+      <th scope="col">Last</th>
+      <th scope="col">Last</th>
+      <th scope="col">Last</th>
+      <th scope="col">Handle</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="table-danger">
+      <th scope="row">1</th>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+    </tr>
+    <tr class="table-success">
+      <th scope="row">2</th>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+    </tr>
+    <tr class="table-danger">
+      <th scope="row">3</th>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+    </tr>
+    <tr class="table-success">
+      <th scope="row">4</th>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+    </tr>
+    <tr class="table-danger">
+      <th scope="row">5</th>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+    </tr>
+    <tr class="table-success">
+      <th scope="row">6</th>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+    </tr>
+    <tr class="table-danger">
+      <th scope="row">7</th>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+    </tr>
+    <tr class="table-success">
+      <th scope="row">8</th>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+    </tr>
+    <tr class="table-danger">
+      <th scope="row">9</th>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+    </tr>
+  </tbody>
+</table>
+
+
+ </div>
     </>
   </Layout>
   )

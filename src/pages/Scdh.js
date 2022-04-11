@@ -16,7 +16,7 @@ const Scdh = () => {
     <div class="carousel-item active">
 
 
-<img class="bd-placeholder-img" width="100%" height="100%" src="https://connecteam.com/wp-content/uploads/2021/01/pexels-olya-kobruseva-5417678-scaled.jpg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"></img>
+<img class="bd-placeholder-img" width="100%" height="100%" src="https://blog.trello.com/hubfs/download%20(95).png" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"></img>
 
       <div class="container">
         <div class="carousel-caption text-end">

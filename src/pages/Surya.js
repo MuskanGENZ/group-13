@@ -29,7 +29,7 @@ import Layout from "../component/Layout/Layout"
   <section class="py-3 text-center container">
     <div class="row py-lg-5">
       <div class="col-lg-6 col-md-8 mx-auto">
-        <h6 class="lead"><i>“Movement without awareness is exercise. Movement with awareness is yoga.”This sequence of postures is essentially a series of prescribed motions that begins and ends with Tadasana (Mountain Pose). The poses take you through all manner of stretches, forward folds, and backbends that build heat and happen in a rhythmic cadence that’s aligned with your breath.</i></h6>
+        <h6 class="lead text-muted"><i>“Movement without awareness is exercise. Movement with awareness is yoga.”This sequence of postures is essentially a series of prescribed motions that begins and ends with Tadasana (Mountain Pose). The poses take you through all manner of stretches, forward folds, and backbends that build heat and happen in a rhythmic cadence that’s aligned with your breath.</i></h6>
       </div>
     </div>
   </section>
@@ -62,7 +62,7 @@ Stand with your feet together and your arms at your side. Distribute your weight
              alt=""  width="100%" height="80%"
            /> 
              <div class="card-body">
-               <p class="card-text text-muted"><i><strong>2. Urdhva Hastasana (Upward Salute):</strong>
+               <p class="card-text text-muted"><i><strong>2. Urdhva Hastasana:</strong>
 Inhale and sweep your arms straight out to the sides and up alongside your ears into Urdhva Hastasana. Your palms should face one another, and you can bring them to touch if desired. Reach your heart and arms toward the sun..</i></p>
                <div class="d-flex justify-content-between align-items-center">
                  
@@ -79,7 +79,7 @@ Inhale and sweep your arms straight out to the sides and up alongside your ears 
              alt=""  width="100%" height="80%"
            /> 
              <div class="card-body">
-               <p class="card-text text-muted"><i><strong>3. Uttanasana (Standing Forward Bend):</strong>Exhale and bend forward at your hips, bringing your chest to your thighs. Keep your legs strong by drawing your knees toward your hips. Let your shoulders and neck relax. Your hands can rest on your shins, ankles, or blocks in Uttanasana.</i></p>
+               <p class="card-text text-muted"><i><strong>3. Uttanasana:</strong>Exhale and bend forward at your hips, bringing your chest to your thighs. Keep your legs strong by drawing your knees toward your hips. Let your shoulders and neck relax. Your hands can rest on your shins, ankles, or blocks in Uttanasana.</i></p>
                <div class="d-flex justify-content-between align-items-center">
                  
                 
@@ -96,7 +96,7 @@ Inhale and sweep your arms straight out to the sides and up alongside your ears 
              alt=""  width="100%" height="80%"
            /> 
              <div class="card-body">
-               <p class="card-text text-muted"><i><strong>4.Ardha Uttanasana(Half Standing Forward Bend):</strong>Inhale as you lift your chest parallel to the mat in Ardha Uttanasana. Draw your shoulder blades away from your ears and lengthen through your back. You can keep your palms or fingertips on the floor or bring them to your shins or blocks.</i></p>
+               <p class="card-text text-muted"><i><strong>4.Ardha Uttanasana:</strong>Inhale as you lift your chest parallel to the mat in Ardha Uttanasana. Draw your shoulder blades away from your ears and lengthen through your back. You can keep your palms or fingertips on the floor or bring them to your shins or blocks.</i></p>
                <div class="d-flex justify-content-between align-items-center">
                  
                 
@@ -128,7 +128,7 @@ Inhale and sweep your arms straight out to the sides and up alongside your ears 
              alt=""  width="100%" height="80%"
            /> 
              <div class="card-body">
-               <p class="card-text text-muted"><i><strong>6. Chaturanga Dandasana:</strong>Exhale and bend your elbows as you slowly lower your entire body, keeping yourself as straight as a plank of wood. Hug your elbows in toward your sides and pause when you find a right angle between your upper and lower arms. Gaze down and slightly forward.</i></p>
+               <p class="card-text text-muted"><i><strong>6. Chaturanga Dandasana:</strong>Exhale and bend your elbows as you slowly lower your entire body, keeping yourself straight. Hug your elbows in toward your sides and pause when you find a right angle between your upper and lower arms. Gaze down and slightly forward.</i></p>
                <div class="d-flex justify-content-between align-items-center">
                  
                 
@@ -162,7 +162,7 @@ Inhale and sweep your arms straight out to the sides and up alongside your ears 
            /> 
              <div class="card-body">
                <p class="card-text text-muted"><i><strong>8. Adho Mukha Svanasana (Downward-Facing Dog):</strong>
-Exhale as you lift your hips up and back, coming into Downward-Facing Dog. Press down through your knuckles, lengthen through your back, and release your heels toward the mat.Remain here for several breaths(Don’t worry if your heels don’t touch the mat.</i></p>
+Exhale as you lift your hips up and back, coming into Downward-Facing Dog. Press down through your knuckles, lengthen through your back, and release your heels toward the mat.Remain here for several breaths(Don’t worry if your heels don’t touch the mat.Just let your heels feel heavy.)</i></p>
                <div class="d-flex justify-content-between align-items-center">
                  
                 
