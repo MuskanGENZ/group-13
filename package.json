@@ -26,6 +26,8 @@
     "gatsby-plugin-sharp": "^4.11.1",
     "gatsby-source-filesystem": "^4.11.1",
     "gatsby-transformer-sharp": "^4.11.0",
+    "i": "^0.3.7",
+    "mdb-ui-kit": "^3.11.0",
     "react": "^17.0.1",
     "react-bootstrap": "^2.2.3",
     "react-bootstrap-icons": "^1.8.1",

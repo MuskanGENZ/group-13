@@ -121,116 +121,57 @@ const Scdh = () => {
   <thead class="thead-dark">
     <tr>
       <th scope="col">#</th>
-      <th scope="col">Space</th>
-      <th scope="col">Monday</th>
-      <th scope="col">Tuesday</th>
-      <th scope="col">Wednesday</th>
-      <th scope="col">Thursday</th>
-      <th scope="col">Friday</th>
-      <th scope="col">Saturday</th>
-      <th scope="col">Sunday</th>
+      <th scope="col">MONDAY</th>
+      <th scope="col">TUESDAY</th>
+      <th scope="col">WEDNESDAY</th>
+      <th scope="col">THURSDAY</th>
+      <th scope="col">FRIDAY</th>
+      <th scope="col">SATURDAY</th>
+      <th scope="col">SUNDAY</th>
     </tr>
   </thead>
   <tbody>
     <tr class="table-danger">
       <th scope="row">1</th>
-      <td>Early Morning 5-6AM</td>
-      <td>Apple</td>
-      <td>Carrot</td>
-      <td>Banana</td>
-      <td>Dry Fruits</td>
-      <td>Banana</td>
-      <td>Banana</td>
-      <td>Banana</td>
+      <td>STRENGTH AND FLEXIBILITY(30min)</td>
+      <td>YOGA AND CARDIO(60 min)</td>
+      <td>MOTION IS LOTION(30 min)</td>
+      <td>YOGA STRENGTH(30 min)</td>
+      <td>YIN YOGA FOR HIPS AND LOWER BACK(30 min)</td>
+      <td>REST DAY(walk, cycle, meditate, do chores)</td>
+      <td>TOTAL BODY YOGA AND CORE(40min)</td>
     </tr>
     <tr class="table-success">
       <th scope="row">2</th>
-      <td>Breakfast 7AM</td>
-      <td>Oats or Ragi Idli/Oatmeal</td>
-      <td>Utappam</td>
-      <td>Oats Dosa</td>
-      <td>Wheat Upma</td>
-      <td>Chapati</td>
-      <td>Noodles/Masala Oat</td>
-      <td>Bread Omelette</td>
+      <td>MORNING STRETCH(10min)POWER YOGA(20 min)</td>
+      <td>STRETCH THE STRESS OUT(30 min)</td>
+      <td>POWER YOGA(30 min)</td>
+      <td>CARDIO BURN(30 min)</td>
+      <td>YOGA FOR BALANCE(35 min)</td>
+      <td>DEEP STRECH YOGA(45 min)</td>
+      <td>REST DAY(walk, cycle, meditate,do chores)</td>
     </tr>
     <tr class="table-danger">
       <th scope="row">3</th>
-      <td>Morning 9AM</td>
-      <td>Fruit</td>
-      <td>Dates</td>
-      <td>Fruit</td>
-      <td>Curd</td>
-      <td>Handful of peanuts</td>
-      <td>Dates</td>
-      <td>2 Biscuits</td>
+      <td>POWER VINYASA(45 min)</td>
+      <td>YOGA DETOX(30 min)</td>
+      <td>FEEL GOOD FLOW(20 min)</td>
+      <td>FAT BURNING YOGA(30 min)</td>
+      <td>SEATED YOGA(45 min)</td>
+      <td>IMPROVE YOUR BALANCE(30 min)</td>
+      <td>REST DAY(walk, cycle, meditate, do chores)</td>
     </tr>
     <tr class="table-success">
       <th scope="row">4</th>
-      <td>Mid Morning 11AM</td>
-      <td>1 glass Buttermilk with jeera Powder with salt</td>
-      <td>Jaljeera water</td>
-      <td>Ginger Lemonade water</td>
-      <td>Buttermilk</td>
-      <td>Ginger lemonade</td>
-      <td>Buttermilk/coconut water/Sugarcane Juice</td>
-      <td>Jaljeera water</td>
+      <td>TOTAL BODY YOGA(30 min)</td>
+      <td>BACKBEND INFUSED FLOW(60 min)</td>
+      <td>GENTLE YOGA(30 min)</td>
+      <td>CORE STRENGTH YOGA(30 min)</td>
+      <td>BEACH YOGA HIIT WORKOUT(30 min)</td>
+      <td>YIN YOGA AT THE WALL(30 min)</td>
+      <td>MORNING FLOW(15 min)ENERGIZING YOGA(10 min)</td>
     </tr>
-    <tr class="table-danger">
-      <th scope="row">5</th>
-      <td>Lunch 1PM</td>
-      <td>Rice+Egg curry,Sambhar</td>
-      <td>Rice+carrot curry, Dondakal</td>
-      <td>Rice+ Bendakaya Pulusu, Bendakai</td>
-      <td>Rice egg pulusu, Egg Plant curry</td>
-      <td>Rice+capsicum curry, Dosakai Royyalu</td>
-      <td>Rice+soya curry/other, chikkudukaya</td>
-      <td>Veg Pulao+raita</td>
-    </tr>
-    <tr class="table-success">
-      <th scope="row">6</th>
-      <td>Mid Afternoon 3 PM</td>
-      <td>Curd</td>
-      <td>Curd</td>
-      <td>Curd</td>
-      <td>Curd</td>
-      <td>Curd</td>
-      <td>Curd</td>
-      <td>Curd</td>
-    </tr>
-    <tr class="table-danger">
-      <th scope="row">7</th>
-      <td>Evening Snack 5PM</td>
-      <td>Fruit/Green tea</td>
-      <td>Fruit/Green tea</td>
-      <td>Fruit/Green tea</td>
-      <td>Fruit/Green tea</td>
-      <td>Fruit/Green tea</td>
-      <td>Fruit/Green tea</td>
-      <td>Fruit/Green tea</td>
-    </tr>
-    <tr class="table-success">
-      <th scope="row">8</th>
-      <td>Dinner 7PM</td>
-      <td>2 Roti+Tomato Pappu</td>
-      <td>2 Roti+Soya/capsicum</td>
-      <td>2 Roti+Dosakai pappu</td>
-      <td>2 Roti+Onion curry</td>
-      <td>2 Roti+Thotakura pappu</td>
-      <td>2 Roti+Potato Carrot Masala</td>
-      <td>2 Roti+raita</td>
-    </tr>
-    <tr class="table-danger">
-      <th scope="row">9</th>
-      <td>Bed Time 9PM</td>
-      <td>Milk</td>
-      <td>Milk</td>
-      <td>Milk</td>
-      <td>Milk</td>
-      <td>Milk</td>
-      <td>Milk</td>
-      <td>Milk</td>
-    </tr>
+    
   </tbody>
 </table>
 

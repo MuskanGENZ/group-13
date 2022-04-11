@@ -98,7 +98,8 @@ function Hero() {
   </div>
 
   <div class="col-md-6 col-lg-4 slideright">
-    <div class="card shadow-lg"><img alt="Card image cap" class="card-img-top img-fluid" src="https://i.makeagif.com/media/5-14-2017/bmRWJA.gif" />
+    <div class="card shadow-lg">
+      <img alt="Card image cap" class="card-img-top img-fluid" src="https://i.makeagif.com/media/5-14-2017/bmRWJA.gif" />
     <div class="card-block"id="colo">
         <h5 class="card-title px-2">3.Check BMI</h5>
 
