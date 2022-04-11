@@ -34,7 +34,7 @@ const Header = () => {
                 <ul class="dropdown-menu " aria-labelledby="dropdown03">
                   <li><Link class="dropdown-item text-center fs-6 text-dark" to="/Surya"id="zxc">Surya Namaskar</Link></li>
                   <li><Link class="dropdown-item text-center fs-6 text-dark" to="/Beginners"id="zxc">what beginners should..</Link></li>
-                  
+                  <li><Link class="dropdown-item text-center fs-6 text-dark" to="/Yogabed"id="zxc">Yoga in bed</Link></li>
                 </ul>
               </li>
             </ul>
