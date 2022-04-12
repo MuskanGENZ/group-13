@@ -32,7 +32,9 @@
     "react-bootstrap": "^2.2.3",
     "react-bootstrap-icons": "^1.8.1",
     "react-dom": "^17.0.1",
-    "sass": "^1.49.10"
+    "react-slick": "^0.28.1",
+    "sass": "^1.49.10",
+    "slick-carousel": "^1.8.1"
   },
   "devDependencies": {
     "prettier": "^2.6.0"
