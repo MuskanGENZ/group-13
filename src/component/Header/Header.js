@@ -41,6 +41,7 @@ const Header = () => {
                   <li><Link className="dropdown-item text-center fs-6 text-dark" to="/Benefits"id="zxc">Benefits of yoga</Link></li>
                   <li><Link className="dropdown-item text-center fs-6 text-dark" to="/Core"id="zxc"> Build Strong Core</Link></li>
                   <li><Link className="dropdown-item text-center fs-6 text-dark" to="/Flexibility"id="zxc"> Flexibility</Link></li>
+                  <li><Link className="dropdown-item text-center fs-6 text-dark" to="/Weightloss"id="zxc">Weightloss</Link></li>
                 </ul>
               </li>
             </ul>

@@ -89,33 +89,9 @@ const Scdh = () => {
   <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://blog.yogamatters.com/wp-content/uploads/2020/04/Florence-for-Kids-Yoga-Blog.jpg" />
   </div>
 </div>
+</div>
 <hr style={{ margin: "40px 0" }} />
-        <hr className="featurette-divider" style={{margin: "40px"}}></hr>
-
-        <div className="row featurette">
-       
-        </div>
-        <div id="myCarousel" class="carousel slide " data-bs-ride="carousel">
-  <div class="carousel-indicators">
-    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-    
-  </div>
-  <div class="carousel-inner">
-    <div class="carousel-item active rounded-3">
-
-
-<img class="bd-placeholder-img " width="100%" height="100%" src="https://yogakali.com/wp-content/uploads/2020/03/calendar-768x543.webp" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"></img>
-    </div>
-    </div>
-    </div>
-      </div>
- 
-    <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-indicators">
-    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-    
-  </div>
-    </div>
+        
     <div class="table-responsive container">
     <table class="table">
   <thead class="thead-dark">

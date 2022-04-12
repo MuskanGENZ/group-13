@@ -17,37 +17,27 @@ const Benefits = () => {
     <div class="carousel-item active">
 
 
-<img class="bd-placeholder-img" width="100%" height="100%" src="https://i.ytimg.com/vi/GK92t5KI3ok/maxresdefault.jpg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"></img>
+<img class="bd-placeholder-img" width="100%" height="100%" src="https://online.visual-paradigm.com/repository/images/411d9657-0b94-4dec-9a95-f2310a92f219/infographics-design/.png" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"></img>
 
-      <div class="container">
-        <div class="carousel-caption text-end">
-          <h1 class="text-white">How does yoga improve your mood? </h1>
-          <h4><i class="text-white"> Yoga changes your brain chemistry by increasing the serotonin level and brain GABA level to improve your mood and lower anxiety and stress.</i></h4>
-          
-        </div>
-      </div>
     </div>
     </div>
     </div>
     <hr style={{ margin: "40px 0" }} />
-    <div className="container my-4" style={{display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
-      <h4 className="text-primary">FIT ME</h4>
-      <h2 className="text-md"><i>Why you should do yoga?</i></h2>
-       <p className="text-muted"><i>
-       Improves your flexibility
-1.Builds muscle and strength
-2.Weight loss
-3.Improves posture
-4.Boosts your energy
-5.Prevents cartilage and joint breakdown
-6.Reduce stress
-7.Increases lung capacity (Breath better)
-8.Improves your mood
-9.Helps beat addiction
-10.Helps you sleep better
-11.Increases focus
-      </i></p> 
-    </div>
+
+           <div class="col-lg-6 mx-auto text-center ">
+           <h2 className="text-md"><i>Why you should do yoga?</i></h2>
+            <p class="lead mb-4 text-muted">
+              <i>
+"Yoga is not a religion; it is a way of living that aims towards 'a healthy mind in a healthy body'."
+Man is a physical, mental and spiritual being; yoga helps promote a balanced development of all the three. Other forms of physical exercises, like aerobics, assure only physical well-being. They have little to do with the development of the spiritual or astral body.
+
+
+Here are 12 health benefits of yoga on why you should consider practicing yoga daily!
+
+              </i>
+            </p>
+          </div>
+     
       <div className="container">
        
           
@@ -62,38 +52,12 @@ const Benefits = () => {
             <p className="lead">
            <i className="text-muted">"
            Pin
-Share
-Twitter
-Practicing yoga daily is both a mental and physical improvement.
 
-Not only are you helping your body to become stronger and more flexible, but practicing yoga also allows you the opportunity to calm your mind and recollect yourself.
-
-Some might even say that yoga has changed the way they perceive the world.
-
-Well, to a certain extent, it does. Overall, yoga is a never-ending transformation process towards your health and wellbeing.
-
-Here are 12 health benefits of yoga on why you should consider practicing yoga daily!
-
-Why you should do yoga?
-Improves your flexibility
-Builds muscle and strength
-Weight loss
-Improves posture
-Boosts your energy
-Prevents cartilage and joint breakdown
-Reduce stress
-Increases lung capacity (Breath better)
-Improves your mood
-Helps beat addiction
-Helps you sleep better
-Increases focus
-1. Improves Your Flexibility
 yoga group touching toes - health benefits of yoga that makes you practice every day
 
 
 
-One of the most obvious benefits of yoga is improved flexibility. You don’t have to be flexible to start practicing yoga, the beauty of yoga is that it caters for everyone at all levels.
-
+One of the most obvious benefits of yoga is improved flexibility.
 You will find touching your toes can be really difficult in the beginning, and don’t mention about backbends. But, if you keep practicing, your body will start to adapt, and poses that are once hard will now become easy.
 
 Whether you are flexible or not, a few minutes of yoga practice a day will definitely make you feel the difference in your flexibility.</i>
@@ -103,7 +67,7 @@ Whether you are flexible or not, a few minutes of yoga practice a day will defin
 
           
           <div className="col-md-5">
-            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://images.squarespace-cdn.com/content/v1/5c366bcf71069910811195f8/1559842185151-53JQNT3TAIAR9S330KB5/goals.gif?format=1500w" />
+            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://yogapractice.com/wp-content/uploads/2018/08/Practice-These-10-Yoga-Poses-for-Tight-Hamstrings-and-to-Gain-Flexibility.jpg" />
           </div>
         </div>
 
@@ -129,7 +93,7 @@ The strong muscles developed through yoga will also do more than just look good.
          
 
           <div className="col-md-5">
-            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://images.squarespace-cdn.com/content/v1/5c366bcf71069910811195f8/1559842185151-53JQNT3TAIAR9S330KB5/goals.gif?format=1500w" />
+            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://i0.wp.com/skill-yoga.blog/wp-content/uploads/2019/12/Skill_Yoga_Can_Yoga_Help_Build_Strength_muscles_1.jpg?resize=900%2C601&ssl=1" />
           </div>
         </div>
 
@@ -159,7 +123,7 @@ Yoga strengthens the mind-body connection which helps you deal with negative emo
     
 
           <div className="col-md-5">
-            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://images.squarespace-cdn.com/content/v1/5c366bcf71069910811195f8/1559842185151-53JQNT3TAIAR9S330KB5/goals.gif?format=1500w" />
+            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://newsmeter.in/wp-content/uploads/2020/03/10-Effective-Baba-Ramdev-Yoga-Asanas-For-Weight-Loss.jpg" />
           </div>
         </div>
 
@@ -188,7 +152,7 @@ Hold the pose for 30 seconds."</i>
        
 
           <div className="col-md-5">
-            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://images.squarespace-cdn.com/content/v1/5c366bcf71069910811195f8/1559842185151-53JQNT3TAIAR9S330KB5/goals.gif?format=1500w" />
+            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://slobody.com/wp-content/uploads/2018/08/Bad-Posture-Woman-DP-PIC-1024x768.jpg" />
           </div>
         </div>
 
@@ -204,7 +168,7 @@ Hold the pose for 30 seconds."</i>
            <i className="text-muted">"
            Have you ever felt like the weight of the world is resting on your body and you just can’t bring yourself to get through the day? That low energy you’re experiencing can be a massive distraction for you to live out a productive day.
 
-Here’s where yoga can play a part in changing that! You see, yoga is a gentle, flowing mix of both body and breathwork that can help boost your energy.
+ You see, yoga is a gentle, flowing mix of both body and breathwork that can help boost your energy.
 
 The main energy centres in your body are called chakras. They are being awakened whenever you practice yoga.
 
@@ -218,7 +182,7 @@ All it takes is just a few minutes of yoga practice every day to start feeling e
          
 
           <div className="col-md-5">
-            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://images.squarespace-cdn.com/content/v1/5c366bcf71069910811195f8/1559842185151-53JQNT3TAIAR9S330KB5/goals.gif?format=1500w" />
+            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://www.yogicwayoflife.com/wp-content/uploads/2019/03/Boost_Your_Energy_With_Yoga.jpg" />
           </div>
         </div>
 
