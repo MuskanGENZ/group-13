@@ -198,7 +198,7 @@ All it takes is just a few minutes of yoga practice every day to start feeling e
            <i className="text-muted">"
            One of the best health benefits of yoga is that it can keep your cartilage and joints healthy!
 
-Joint cartilage is similar to a sponge, and when its fluid is squeezed out, it gets soaked up with fresh nutrients. This also means the areas of cartilage that aren’t normally used don’t receive enough nutrients and can eventually wear out, like worn-out brake pads.
+Joint cartilage is similar to a sponge, and when its fluid is squeezed out, it gets soaked up with fresh nutrients. The areas of cartilage that aren’t normally used don’t receive enough nutrients and can eventually wear out, like worn-out brake pads.
 
 Practicing yoga will force your joints to work in a full range of motion, squeezing and soaking all areas of cartilage, including the neglected areas. This will help prevent degenerative arthritis as well.</i>
             </p>
@@ -207,7 +207,7 @@ Practicing yoga will force your joints to work in a full range of motion, squeez
 
 
           <div className="col-md-5">
-            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://images.squarespace-cdn.com/content/v1/5c366bcf71069910811195f8/1559842185151-53JQNT3TAIAR9S330KB5/goals.gif?format=1500w" />
+            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://www.hunimed.eu/content/uploads/2019/11/iStock-493120690.jpg" />
           </div>
         </div>
 
@@ -228,7 +228,7 @@ Practicing yoga will force your joints to work in a full range of motion, squeez
 
          
           <div className="col-md-5">
-            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://images.squarespace-cdn.com/content/v1/5c366bcf71069910811195f8/1559842185151-53JQNT3TAIAR9S330KB5/goals.gif?format=1500w" />
+            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://jamiegeller.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTY1NTI0OTk3Njc4NjM4MTA3/relieve-stress-in-6-steps.jpg" />
           </div>
         </div>
 
@@ -242,7 +242,7 @@ Practicing yoga will force your joints to work in a full range of motion, squeez
             </h2>
             <p className="lead">
            <i className="text-muted">"
-           There are many breathing techniques (pranayama) in yoga and they’re all a vital part of yoga.You will learn to fill and empty the lungs completely, and most people probably aren’t used to using their full lung capacity.These techniques will help you feel more calm and relaxed, and regular practice will also improve breathing and increase lung capacity (source). Breathing better can also help you stay calm and make sound decisions in stressful situations</i>
+           There are many breathing techniques (pranayama) in yoga and they’re all a vital part of yoga.You will learn to fill and empty the lungs completely, and most people probably aren’t used to using their full lung capacity.These techniques will help you feel more calm and relaxed, and regular practice will also improve breathing and increase lung capacity (source). Breathing better can also help you stay calm and make sound decisions in stressful situations.The asanas whether standing, sitting, or lying not only strengthen the back, thigh and stomach muscles but also increase oxygenation and lung capacity.</i>
             </p>
             
           </div>
@@ -250,7 +250,7 @@ Practicing yoga will force your joints to work in a full range of motion, squeez
           
 
           <div className="col-md-5">
-            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://images.squarespace-cdn.com/content/v1/5c366bcf71069910811195f8/1559842185151-53JQNT3TAIAR9S330KB5/goals.gif?format=1500w" />
+            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://www.thestatesman.com/wp-content/uploads/2021/05/iStock-1024221102.jpg" />
           </div>
         </div>
 
@@ -271,7 +271,7 @@ Practicing yoga will force your joints to work in a full range of motion, squeez
 
 
           <div className="col-md-5">
-            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://images.squarespace-cdn.com/content/v1/5c366bcf71069910811195f8/1559842185151-53JQNT3TAIAR9S330KB5/goals.gif?format=1500w" />
+            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://www.yogafit.com/images/imguploader/images/Ways%20Meditation%20Can%20Improve%20Your%20Mood_600x600%20(1).png" />
           </div>
         </div>
 
@@ -291,7 +291,7 @@ Practicing yoga will force your joints to work in a full range of motion, squeez
           </div>
 
           <div className="col-md-5">
-            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://images.squarespace-cdn.com/content/v1/5c366bcf71069910811195f8/1559842185151-53JQNT3TAIAR9S330KB5/goals.gif?format=1500w" />
+            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://cdn.cdnparenting.com/articles/2019/03/22163548/621316739-H.jpg" />
           </div>
         </div>
 
@@ -307,7 +307,7 @@ Practicing yoga will force your joints to work in a full range of motion, squeez
    <i className="text-muted">"
    If you’re having trouble falling asleep, you can try doing some yoga!
 
-Living in the modern world today has put many of us in high alert all the time. We are constantly thinking and accumulating ourselves with unwanted concerns and stress. The constant worrying will often lead to insomnia or lower quality of sleep.
+Living in the modern world today has put many of us in high alert all the time. We are constantly thinking and accumulating ourselves with unwanted concerns and stress. 
 
 Luckily, one of the health benefits of yoga is that it can improve your sleep quality so you can sleep soundly every night.
 
@@ -315,7 +315,7 @@ Practicing restorative yoga or go for a yoga nidra session helps to provide your
 
 Researchers found out that long term practice of yoga exercises is linked to good sleep quality and lowers sleep disturbance (source). The participants were older adults and they did yoga exercises for 2 years. As a result, they were able to fell asleep faster while also decreasing the use of sleep medication.
 
-There is another study confirmed that yoga appears to improve sleep quality and quality of life of 120 elderly participants after 6 months of practicing yoga (source).
+
 
 If you sleep better, you’ll be both less tired and less stressed.
 
@@ -328,7 +328,7 @@ Oh, and no more paying for sleeping pills!
 
 
   <div className="col-md-5">
-    <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://images.squarespace-cdn.com/content/v1/5c366bcf71069910811195f8/1559842185151-53JQNT3TAIAR9S330KB5/goals.gif?format=1500w" />
+    <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://media.istockphoto.com/vectors/young-woman-doing-meditation-on-bed-in-bedroom-in-flat-design-female-vector-id1311575243?k=20&m=1311575243&s=612x612&w=0&h=39Jn67URxYB2v_Je7EgReeb3fWqQ3sGAq1XQimI8fpw=" />
   </div>
 </div>
 
@@ -352,8 +352,6 @@ The elements of yoga consist of breath control and meditation practice which hel
 
 Believe it or not, just a mere 10 minutes of mindful meditation can prevent your mind from wandering (source). It shifts your attention from your internal world of worries to the present moment and allows you to focus on the current task at hand.
 
-A study conducted in 2018 had participants went through 3 months of meditation. After the 3 months, the results show that they have improved sustained attention and longer reaction time (source).
-
 As you can see, yoga and meditation can definitely improve your focus. You can do more without getting distracted and approach your everyday tasks more efficiently.</i>
     </p>
     
@@ -361,7 +359,7 @@ As you can see, yoga and meditation can definitely improve your focus. You can d
 
 
   <div className="col-md-5">
-    <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://images.squarespace-cdn.com/content/v1/5c366bcf71069910811195f8/1559842185151-53JQNT3TAIAR9S330KB5/goals.gif?format=1500w" />
+    <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://imgk.timesnownews.com/story/1550647671-yoga_new.PNG?tr=w-1200,h-900" />
   </div>
 </div>
     </div>

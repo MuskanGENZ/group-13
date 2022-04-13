@@ -24,7 +24,7 @@ const Flexibility = () => {
                   class="bd-placeholder-img"
                   width="100%"
                   height="100%"
-                  src="https://cdn.dribbble.com/users/7218414/screenshots/15293279/meditate.gif"
+                  src="https://femmepharma.com/wp-content/uploads/2020/01/image-1024x683.png"
                   aria-hidden="true"
                   preserveAspectRatio="xMidYMid slice"
                   focusable="false"
@@ -32,13 +32,8 @@ const Flexibility = () => {
             
                 <div class="container">
                   <div class="carousel-caption">
-                    <h1 className="text-dark">8 Yoga Poses for Beginners</h1>
-                    <h5 className="text-dark">
-                      <i>
-                        "Ready to give it a try? Here are eight beginner poses —
-                        called "asanas" ”
-                      </i>
-                    </h5>
+                    <h1 className="text-white"> 7 Yoga Poses to Regain Flexibility After 40 </h1>
+                    
                   </div>
                 </div>
               </div>
@@ -46,29 +41,14 @@ const Flexibility = () => {
           </div>
         </div>
         <hr style={{ margin: "40px 0" }} />
-        <div
-          className="container my-4"
-          style={{
-            display: "flex",
-            flexDirection: "column",
-            justifyContent: "center",
-            alignItems: "center",
-          }}
-        >
-          <h6 className="text-primary">
-            <i>FIT ME</i>
-          </h6>
-          <h1 className="text-md"><i>7 Yoga Poses to Regain Flexibility After 40</i></h1>
-        </div>
-        <div className="container">
-          <div className="row featurette">
-            <div className="col-md-7">
-              <h2 className="featurette-heading"></h2>
-              <p className="lead">
-               
-       
-                <i className=" lead text-muted">
-                Do you have aches all over your body?
+
+<hr style={{ margin: "40px 0" }} />
+
+<div class="col-lg-6 mx-auto text-center ">
+<h2 className="text-md"><i>How To Get Flexible At Age 40?</i></h2>
+<p class="lead mb-4 text-muted">
+<i>
+Do you have aches all over your body?
 
 Our joints get stiffer as we age, thus shortening our tendons and ligaments. This significantly limits our range of motion, leaving us less flexible.
 
@@ -81,20 +61,14 @@ So, how to get flexible at age 40?
 One of the best ways to get flexible is by practicing yoga. It’s suitable for all age range and anyone can do it at their own pace.
 
 Here are the 7 yoga poses you can easily practice on your own and build that flexibility!
-                </i>
-              </p>
-            </div>
-            <div className="col-md-5 ">
-              <img
-                alt="Card image cap"
-                width="500"
-                height="300"
-                class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg "
-                src="https://images.squarespace-cdn.com/content/v1/56abf4b576d99cc551871634/1516330367257-JPNARE2NM64ZOPE4C5ZE/extended-triangle_animated.gif?format=1000w"
-              />
-            </div>
-          </div>
-        </div>
+
+</i>
+</p>
+</div>
+
+
+               
+    
 
         <div className="container">
 

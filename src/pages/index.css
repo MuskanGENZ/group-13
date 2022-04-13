@@ -146,3 +146,45 @@ hr{
 .pb-row {
   margin-bottom: 10px;
 }
+
+.contactus-section {
+  margin: 3rem 0;
+}
+
+.contact-leftside img {
+  min-width: 80%;
+  max-height: 30rem;
+  height: auto;
+}
+
+.contact-input-feild {
+  margin-bottom: 2rem;
+}
+
+.contact-rightside form .form-control {
+  border: 1px solid #ced4da;
+  -webkit-appearance: none;
+  height: 2.5rem;
+  border-radius: 0.5rem;
+  font-size: 1.6rem;
+  padding-left: 0.5rem;
+  font-weight: lighter;
+}
+
+.contact-rightside form .form-check-input {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.form-checkbox-style {
+  margin: 2rem 0;
+}
+
+.contact-rightside form .main-hero-para {
+  font-size: 1rem;
+  color: var(--text-color);
+  margin: 0;
+  font-weight: lighter;
+  width: 75%;
+  padding: 0 2rem;
+}

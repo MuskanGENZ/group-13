@@ -1,6 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
-import { Home } from "@mui/icons-material"
+import { ContactPhone, Home } from "@mui/icons-material"
+import Contact from "../../pages/Contact"
 
 const Header = () => {
   return (
@@ -44,8 +45,14 @@ const Header = () => {
                   <li><Link className="dropdown-item text-center fs-6 text-dark" to="/Weightloss"id="zxc">Weightloss</Link></li>
                 </ul>
               </li>
-            </ul>
-            
+              </ul>
+              <div  class="text-end ">
+                <ul class="text-end m-auto mb-2 mb-sm-0" >
+              <li className="btn text-white text-center">
+                <Link className="text-white text-decoration-none fs-5  text-center "id="zxc" to="/Contact"><ContactPhone></ContactPhone>Contact US</Link>
+              </li>
+              </ul>
+              </div>
           </div>
         </div>
       </nav>
