@@ -56,7 +56,7 @@ const Beginners = () => {
           }}
         >
           <h6 className="text-primary">
-            <i>FIT ME</i>
+            <i>Yogmaya</i>
           </h6>
           <h1 className="text-md"><i>New to Yoga?</i></h1>
         </div>

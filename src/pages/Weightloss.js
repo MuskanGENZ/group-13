@@ -63,18 +63,18 @@ Yoga is known for its incredible benefits such as increasing flexibility and str
           <div className="col-md-7 order-md-2">
             <h2 className="featurette-heading">
             
-              <span className="">1.Locust Pose (Salabhasana)</span>
+              <span className="">1. Standing Side Bend</span>
             </h2>
             <p className="lead text-muted">
-           <i>Begin with lying flat on your belly with your toes flat on the yoga mat. Slowly raise your head, arms and feet up all at the same time.
-           Keep your chest and thigh raised as well. At this point, only your lower belly and hips are touching the ground.Bring a gentle awareness to your breath and slowly extend. Take a moment to feel your body as you extend. Finally, lift everything up slightly higher and hold it.
-           Beginner: Hold for 30 seconds
-           Advanced: Hold for 1 minute 30 second. Locust Pose improves posture and counteracts the effects of prolonged sitting and computer work. </i>
+           <i>Standing Side Bend is not just merely performing a standing and bending stretch. You have to focus on breathing while you stretch. With each exhale, you stretch your body a little more and open up the muscle tissues around your rib cage and spine.
+               How to do the Standing Side Bend:
+Stand tall with both your feet and legs together. On inhale, reach both arms straight up towards the ceiling. On exhale, hold your hands together and lower your right arm down towards the right side of your body. At the same time, bend right from the waist. Hold this pose for 5 breaths. As you exhale, lengthen the left arm over the head and bend your body deeper to the right.To release, inhale and bend back to the center from your waist, returning your arms to center. Repeat on the left side for 5 breaths.
+Tips: As you bend to the side, squeeze and engage your core, glutes and quadriceps completely. This provides a solid base of support and stability so you can focus on stretching even further and deeper into the pose.</i>
             </p>
             
           </div>
           <div className="col-md-5 order-md-1">
-          <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://www.verywellfit.com/thmb/nU71VXqtbIB3K8QuljxlwQEy3N8=/3000x2000/filters:fill(FFDB5D,1)/14-3567097-Locust-Pose-GIF-b8f6b5d5b1824800b33639eef5a8d633.gif" />
+          <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://www.fitsri.com/wp-content/uploads/2020/03/Easy-Pose-1.jpg" />
           
           </div>
         </div>
@@ -84,20 +84,20 @@ Yoga is known for its incredible benefits such as increasing flexibility and str
         <div className="row featurette">
           <div className="col-md-7">
             <h2 className="featurette-heading">
-              <span className="text-muted">2.Plank Pose (Phalakasana)</span>
+              <span className="text-muted">2. Extended Triangle Pose </span>
             </h2>
             <p className="lead text-muted">
-            <i>Place your hands on the floor and grip firmly. Firm your upper back and have your shoulder blades spread away from your spine.
+            <i> The extended triangle pose stretches the lower body including hamstrings, hips, groins, and calves, and upper body including shoulders, chest, and spine.
+Aside from improving flexibility, it also strengthens the muscles in thighs and tones the knees and ankles.
+How to do the Extended Triangle Pose:
 
-Keep your butt in line with your back. Make sure your back is straight.
-
-Beginner: Hold for 30 seconds.
-Advanced: Hold for 1 minute 30 seconds Plank Pose is beneficial for people who suffer from lower back pain, sciatica or herniated discs because it increases strength in these areas and makes them stronger over time.</i>
+ Begin standing with your feet hip-distance apart. Next, step your feet wide apart, about 3 to 4 feet.
+ Turn your right foot out 90 degrees. Keep both of your heels aligned.On exhale, extend your torso to the right and bend from the hip joint. Strengthen the left leg and press the outer heel firmly to the floor. Gently rotate the torso to the left to keep two sides equally long.Place your right hand on your shin, ankle or the floor outside your right foot, wherever that is comfortable without distorting the sides of the torso.Now stretch your left arm toward the ceiling until it’s in line with the tops of your shoulders.Turn your head to the left gently so your eyes are gazing softly at the left thumb.Hold this pose for 1 minute.To release, inhale and press your left heel strongly into the floor while lifting your torso. Relax and lower your arms.Repeat for the same length of time for the opposite side..</i>
             </p>
            
           </div>
           <div className="col-md-5">
-            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://media4.giphy.com/media/2UqZvQq4p9DjTBDVRc/giphy.gif?cid=790b7611d31f33f19085455d9cc4f2d7282023da0176dcc4&rid=giphy.gif&ct=g" />
+            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://images.healthshots.com/healthshots/en/uploads/2019/11/20010410/cat-cow.gif" />
           </div>
         </div>
   
@@ -107,20 +107,27 @@ Advanced: Hold for 1 minute 30 seconds Plank Pose is beneficial for people who s
   <div className="col-md-7 order-md-2">
     <h2 className="featurette-heading">
     
-      <span className="text-muted">3.Bridge Pose (Setu Bandha Sarvangasana)
-</span>
+      <span className="text-muted">3. Standing Forward Bend</span>
     </h2>
     <p className="text-muted lead">
-   <i>Lay flat on the yoga mat. Bend your knees slowly until your heels touch your butt. Push your hips forward and towards the ceiling using your core and glutes.
+   <i>Doing the standing forward bend stretches the hamstrings, calves, hips and your upper back.
 
-Clasp the hands below your pelvis and extend the arms. Adjust your shoulders to raise yourself higher.
-Beginner: Hold for 30 seconds
-Advanced: Hold for 1 minute Bridge Pose improves posture and counteracts the effects of prolonged sitting and computer work. It may help relieve low back pain and can counteract slouching and kyphosis (abnormal curvature of the spine).</i>
+ This pose is especially great for tight and tired upper back muscles. The gentle pull created by the weight of your arms pulling down to the ground will help to release the tightness of your shoulders and the middle and upper back.
+
+If you have been hunching your shoulders up around your ears or doing anything that causes your upper back and shoulders to become tired, this will be great for relieving your back.
+
+How to do the Standing Forward Bend:
+Stand with your heels slightly apart. On exhale, bend forward from your hip joints (not from the waist). Like all the forward bends, the focus is on lengthening of the front torso as you move into the position fully.
+Cross your forearms and hold your elbows. Press your heels firmly into the floor and try to lift your butt towards the ceiling.
+As you inhale, lengthen the front torso slightly, and on exhale, release a little more into the forward bend. Allow your head to hang.
+Hold this pose for 30 seconds to 1 minute.
+To release, bring your hands onto your hips. On inhale, press your tailbone down and into the pelvis and come up with a long front torso.
+Tips: Don’t worry if you do not have the flexibility to do the pose, you can practice with your knees bent until you can straighten your legs. When you do bend your knees, then you have to avoid over-rounding your back.</i>
     </p>
     
   </div>
   <div className="col-md-5 order-md-1">
-  <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://i.pinimg.com/originals/83/3b/f3/833bf33c1c48491abed157e349d703a3.gif" />
+  <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://c.tenor.com/dPLJkTaa4q0AAAAC/meditate-mariana-humeniuk.gif" />
   
   </div>
 </div>
@@ -128,17 +135,24 @@ Advanced: Hold for 1 minute Bridge Pose improves posture and counteracts the eff
         <div className="row featurette">
           <div className="col-md-7">
             <h2 className="featurette-heading">
-              <span className="text-muted">4.Boat Pose (Navasana)</span>
+              <span className="text-muted">4. Cobra Pose</span>
             </h2>
             <p>
-            <i className="text-muted lead">The Boat Pose is one of the easiest-to-do yoga poses and it’s very suitable for losing weight.It trains your core strength and builds muscles in your abs.Raise your legs up slowly until it’s a 45-degree angle. Beginners can use your arms to hold your legs to balance yourself. After that, slowly lift your arms away to the outside of the knees.
-                                           Beginners: Hold for 30 seconds
-                                           Advanced: Hold for 1 minute Boat Pose builds focus and body awareness.</i>
+            <i className="text-muted lead">When it comes to flexibility, it’s important to also stretch your front torso. This is especially important for those of us who sit long hours over a desk or steering wheel all day long.
+
+ The Cobra Pose stretches the muscles in your shoulders, chest, and neck. If you hunch a lot, it can also relieve tightness in your upper body.
+ How to do the Cobra Pose:
+
+ Begin lying prone on the floor with your legs back and tops of the feet on the floor. Place your hands on the floor under your shoulders. Bring the elbows close to your body.
+ Now press the tops of the feet and thighs firmly into the floor.
+ On inhale, straighten the arms to lift the chest off the floor. Press your tailbone toward the pubis and firm your buttocks.
+ Keep your shoulder blades firm against your back and spread the backbend evenly throughout the entire spine.
+ Hold the pose for 30 seconds.</i>
             </p>
            
           </div>
           <div className="col-md-5">
-            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://www.yogajournal.com/wp-content/uploads/2007/08/ParipurnaNavasana-Boat-1.gif?width=730" />
+            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://64.media.tumblr.com/a8c9395a0a31333fd50678dca928f7bb/tumblr_o3j8l8CCXV1rysr6eo1_400.gifv" />
           </div>
         </div>
 
@@ -146,17 +160,25 @@ Advanced: Hold for 1 minute Bridge Pose improves posture and counteracts the eff
         <div className="row featurette">
           <div className="col-md-7 order-md-2">
             <h2 className="featurette-heading">
-              <span className="text-muted">5.Half Moon Pose (Ardha Candrasana)</span>
+              <span className="text-muted">5. Child Pose </span>
             </h2>
             <p className="text-muted lead">
-            <i>When doing this pose, your hips should be rotated until your torso is facing outwards and not facing downwards to the mat. The toe of the raised foot is pointed outwards as well and not towards the floor.If you find yourself not flexible enough to keep your standing leg straight, you can bend the knee of the standing leg slightly which will help you touch the floor. Alternatively, you can use a yoga block or a stack of books. Instead of touching the ground, the block will act as your new ground level which is higher and easier for your hand to reach.
-               Beginner: Hold for 30 seconds
-               Advanced: Hold for 1 minute</i>
+            <i>  After doing the Cobra Pose, you can transition into the Child Pose to relieve your back and passively stretch the muscles of the back torso.
+ The Child Pose stretches the hips, thighs, and ankles.
+How to do the Child Pose:
+
+Begin by kneeling on the floor. Touch your big toes together and sit on your heels. Next, separate your knees slightly wider than hip-width.
+On exhale, lay your torso down between your thighs. Allow your forehead to come to the floor.
+Extend your arms in front, palms facing down. Lengthen from your hips to your armpits.
+To go into the pose deeper, you can slowly walk your fingers further.
+Hold this pose for 1 minute or longer.
+To release, gently use your hands to walk your torso upright so you can sit back on your heels.
+Tips: If you have very tight hips, you can keep your knees and thighs together.</i>
             </p>
            
           </div>
   <div className="col-md-5 order-md-1">
-  <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://www.verywellfit.com/thmb/pmRJcELkdiqWNA4n_qFsvKYA8Ng=/1500x1000/filters:fill(FFDB5D,1)/HalfMoonPose_annotated-3cc2987bbf1a483c9cc33936de76b3ad.gif" />
+  <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://i.pinimg.com/originals/1b/96/ed/1b96ed51ec41d3376c2f8ccc8fa206e4.gif" />
   
   </div>
   </div>
@@ -164,132 +186,61 @@ Advanced: Hold for 1 minute Bridge Pose improves posture and counteracts the eff
         <div className="row featurette">
           <div className="col-md-7">
             <h2 className="featurette-heading">
-              <span className="text-muted">6.Reverse Plank Pose (Purvottanasana)</span>
+              <span className="text-muted">6. Camel Pose</span>
             </h2>
             <p className="text-muted lead">
-            <i>Start with sitting on the ground. Straighten your legs in front of you and place your hands directly underneath your shoulders.Lift up your hip with your core and glutes until your whole body is in a straight line.
-               Beginner: Hold for 30 seconds
-               Advanced: Hold for 2 minutes Your core is more than just your abdominal muscles. It also includes the hip abductors, and the lumbar spine.The reverse plank exercise can also be used as a rehab exercise to improve core and spinal stabilization.</i>
+            <i> The Camel Pose increases flexibility in the spine, opens the chest and shoulders, and improves circulation and digestion. It also stretches the front of the body including the quadriceps, chest and abdomen.
+
+Backbends like Camel Pose can counteract slouching and restore the natural flexibility of your spine.
+
+How to do the Camel Pose:
+
+Begin by kneeling with your thighs perpendicular to the floor and hips distance apart.
+Open up your chest as you reach your hands back one at a time and grasp your heels. Keep the tops of your feet flat on the floor. If you need a little more height, you can tuck your toes under.
+Next, bring your hips forward so they stay over your knees.
+Let your head come back. If that doesn’t feel good, you can keep your chin tucked instead.
+Hold for this pose for 30 seconds to 1 minute.
+To release, bring your chin toward your chest. Hands to your hips. Using your core muscles and your hands, slowly bring your body to an upright kneeling position.</i>
             </p>
            
           </div>
           <div className="col-md-5">
-            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://media3.giphy.com/media/8c6JRZ4l5D759qHCtH/giphy.gif?cid=790b7611cf2cd4a4dd181b0e0a63817b34d99219d24d1c42&rid=giphy.gif&ct=g" />
+            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://thumbs.gfycat.com/EsteemedSpicyBeaver-max-1mb.gif" />
           </div>
         </div>
 
         <hr className="featurette-divider" style={{margin: "40px"}}></hr>
-        <div className="row featurette">
-          <div className="col-md-7 order-md-2">
-            <h2 className="featurette-heading">
-              <span className="text-muted">7.Warrior III Pose (Virabhadrasana III)</span>
-            </h2>
-            <p className="text-muted lead">
-            <i>Begin from the lunge position and stretch your arms forward with the palms facing each other. Your arms must be parallel to the floor and parallel to each other.Straighten the front leg and lift the back leg up at the same time.The raised leg, torso, and arms should be all parallel to the floor. Be aware of the hip point of the raised leg, Beginners tend to tilt their pelvis. Make sure both sides of your hips are even and parallel to the floor.Extend the back leg strongly towards the direction behind you and just as strongly in the opposite direction with your arms.
-               Beginner: Hold for 30 seconds
-                Advanced: Hold for 1 minute</i>
-            </p>
-           
-          </div>
-  <div className="col-md-5 order-md-1">
-  <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://i1.wp.com/www.fitsri.com/wp-content/uploads/2020/09/warrior-3-pose-Virabhadrasana-3.jpg?fit=1120%2C747&ssl=1" />
-  
-  </div>
-  </div>
-  <hr className="featurette-divider" style={{margin: "40px"}}></hr>
-        <div className="row featurette">
-          <div className="col-md-7">
-            <h2 className="featurette-heading">
-              <span className="text-muted">8.Chair Pose (Utkatasana)</span>
-            </h2>
-            <p className="text-muted lead">
-            <i>Raise your arms perpendicular to the floor and towards the ceiling. Arms parallel to each other with palms facing inward.Bend your knees, adjusting your thighs slowly until it is as nearly parallel to the floor as possible. Your knees will project out a little over the feet and your torso can lean forward slightly for balance.Make sure your shoulder blades are always firm against the back.
-               Beginner: Hold for 30 seconds
-               Advanced: Hold for 1 minute Utkatasana powerfully strengthens the muscles of the arms and legs, but it also stimulates the diaphragm and heart.</i>
-            </p>
-           
-          </div>
-          <div className="col-md-5">
-            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://www.verywellfit.com/thmb/9WQawE3c10kfbNWNiITDjoiyzaw=/2500x1667/filters:fill(FFDB5D,1)/Verywell-18-3567197-Chair02-907copy-5c6316dbc9e77c0001d93213.jpg" />
-          </div>
-        </div>
 
-        <hr className="featurette-divider" style={{margin: "40px"}}></hr>
-        <div className="row featurette">
-          <div className="col-md-7 order-md-2">
-            <h2 className="featurette-heading">
-              <span className="text-muted">9.Side Plank Variation (Vasisthasana)</span>
-            </h2>
-            <p className="text-muted lead">
-            <i>Start with the normal side plank pose with your left hand on the yoga mat. Turn your torso to the right with the support of your left hands and the outer left footYour left hand should not be directly beneath your left shoulder, but slightly in front of the shoulder.Slowly raise your right leg up and grab your toes with your right arm. If you are unable to straighten your right leg, you can bend your right knee slightly. Your flexibility will gradually build up as you do this more often.
-               Beginner: Hold for 30 seconds
-               Advanced: Hold for 1 minute</i>
-            </p>
-           
-          </div>
-  <div className="col-md-5 order-md-1">
-  <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://www.verywellfit.com/thmb/UjFaW9i8Sa8qn-jhyv0akqeASnU=/4500x3000/filters:no_upscale():max_bytes(150000):strip_icc()/5-sideplank-56f94c2a3df78c7841931333.jpg" />
-  
-  </div>
-  </div>
-  <hr className="featurette-divider" style={{margin: "40px"}}></hr>
-        <div className="row featurette">
-          <div className="col-md-7">
-            <h2 className="featurette-heading">
-              <span className="text-muted">10.Wheel Pose (Chakrasana)</span>
-            </h2>
-            <p className="text-muted lead">
-            <i>Start with lying down on your back. Bent your knees and bring your heels to your butt.Bend your elbows, place your palms on the floor beside your head and fingers pointing towards your shoulder. Pressing your hands and feet on the floor, exhale and push yourself up until your elbows straighten.
-               Beginners: Hold for 30 seconds
-               Advanced: Hold for 2 minute One study found that incorporating Urdhva Dhanurasana and similar backbends into a yoga routine significantly improved the spinal flexibility of the participants, all of whom were over 50 years old.</i>
-            </p>
-           
-          </div>
-          <div className="col-md-5">
-            <img alt="Card image cap"   width="500" height="200" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://lh3.googleusercontent.com/SZWjHtYfAN0oU3YdcN43ui8jsfX-wndsi69PTQ55VO6FiXVaMGYwUlHXoQISAvLv31M6kQUr5ZtsL1L62IT2pWKgutupNr82qLNP1x7mUrySTcoLlTamzIFZRR3SCHSLpDqRpESu" />
-          </div>
-        </div>
+<div className="row featurette">
+  <div className="col-md-7 order-md-2">
+    <h2 className="featurette-heading">
+    
+      <span className="text-muted">7. Runner’s Lunge</span>
+    </h2>
+    <p>
+   <i className="text-muted lead">The Runner’s Lunge is one of the best poses to get flexible at age 40 because it’s perfect for stretching your lower body including the hips, groin and legs.
 
-        <hr className="featurette-divider" style={{margin: "40px"}}></hr>
-        <div className="row featurette">
-          <div className="col-md-7 order-md-2">
-            <h2 className="featurette-heading">
-              <span className="text-muted">11.Extended Side Angle Pose (Utthita Parsvakonasana)</span>
-            </h2>
-            <p className="text-muted lead">
-            <i>To enter the extended side angle pose, you can begin with the Warrior I pose.For those who are don’t know what is a Warrior I pose, it is a lunge position with your left knee bent forward at a 90-degree angle and right leg is straight towards the back with its toes pointing forwards.After you have done that, you can continue to the side angle pose. Extend your right hand straight towards the ceiling and rotate your hip until your torso is facing the side.Gaze to your right arm and slowly lay the left side of your down onto the top left of your thigh. Place your left hand firmly on the floor to support yourself.
-               Beginner: Hold for 30 seconds
-               Advance: Hold for 1 minute 30 seconds It improves posture and counteracts the effects of prolonged sitting and doing computer work, and may help build confidence.</i>
-            </p>
-           
-          </div>
-  <div className="col-md-5 order-md-1">
-  <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://media1.popsugar-assets.com/files/thumbor/a2s23UqCSq9MRQg_7la3_bGiMcA/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2016/01/11/747/n/1922729/bfb46f2c_Extended-Side-Angle-Pose/i/Extended-Side-Angle-Pose.jpg" />
+It’s great for those who are experiencing hip pain and tightness because this pose relieves your lower body from tension.
+
+This pose focuses on your legs since you’ll be able to rest your hands on the floor.
+
+How to do the Runner’s Lunge:
+
+Begin going into a plank position with your hands directly below your shoulders.
+On inhale, step your left foot toward the front edge of your mat so that your left knee can form a right angle.
+Now hold this position and try to release your hips into gravity, relaxing your muscles. While doing this, you will feel a deeper stretch in your hips.
+Hold this pose for at least 30 seconds.
+Repeat on the other side.</i>
+    </p>
+    
   
-  </div>
-  </div>
-  <hr className="featurette-divider" style={{margin: "40px"}}></hr>
-        <div className="row featurette">
-          <div className="col-md-7">
-            <h2 className="featurette-heading">
-              <span className="text-muted">12.Four-Limbed Staff Pose (Chaturanga Dandasana)</span>
-            </h2>
-            <p className="text-muted lead">
-            <i>This is very similar to the plank pose but a different variation.To enter this pose, you can start with the normal plank position and lower your entire body down until your torso is in line with your arms or triceps.Your butt should be slightly higher than your torso and keep your core tight and firm.
-              Beginner: Hold for 30 seconds
-              Advanced: Hold for 1 minute Four-Limbed Staff Pose boosts energy, fights fatigue, and builds confidence and empowerment.</i>
-            </p>
-           
-          </div>
-          <div className="col-md-5">
-            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://static01.nyt.com/images/2016/12/02/well/move/yoga_body_images-slide-UMIF/yoga_body_images-slide-UMIF-jumbo.jpg" />
-          </div>
         </div>
         </div>
-       <div>
+        </div>
+        <div>
+
 
    </div>
-
           </>
        
  

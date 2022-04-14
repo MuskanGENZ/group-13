@@ -30,7 +30,7 @@ const Scdh = () => {
     </div>
     <hr style={{ margin: "40px 0" }} />
     <div className="container my-4" style={{display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
-      <h4 className="text-primary">FIT ME</h4>
+      <h4 className="text-primary">Yogmaya</h4>
       <h2 className="text-md"><i>What schedule is best when you are a beginner? </i></h2>
        <p className="text-muted"><i>
       Always consult your doctor if you have any concerns

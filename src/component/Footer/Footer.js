@@ -33,7 +33,7 @@ const Footer = () => {
                 </a>
               </li>
             </ul>
-            <p class="text-center text-muted">&copy; 2022 Fit Me, Inc</p>
+            <p class="text-center text-muted">&copy; 2022 Yogmaya, Inc</p>
           </footer>
         </div>
       </div>

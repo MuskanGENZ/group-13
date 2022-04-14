@@ -53,7 +53,7 @@ const Yogabed = () => {
             alignItems: "center",
           }}
         >
-          <h4 className="text-primary">FIT ME</h4>
+          <h4 className="text-primary">Yogmaya</h4>
           <h2 className="text-md">
             <i>Start your day with some Yoga in bed! </i>
           </h2>
@@ -81,7 +81,7 @@ const Yogabed = () => {
               </h2>
               <p className="lead">
                 <i className="text-muted">
-                  {" "}
+              
                   "Before you begin yoga on your bed, you could start with
                   subtle exercises such as gentle rotation of your neck, arms,
                   wrists, and ankles to slowly warm up the joints. Practice
@@ -167,7 +167,7 @@ const Yogabed = () => {
                 width="500"
                 height="500"
                 class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg"
-                src="https://lh5.googleusercontent.com/DuhWFp7QBpR-X6whKehCvm233FCwqdy-5fjjm0JPlkq6euMSkPohWQbkPRO_-JNHyo-OBjSskRy_6-_hfgZNxLQaSyXFWKHepybaHAaN-yyAOmYUWq4Y2l3m0h5WvayGOL_D-Ina"
+                src="https://cdn.lessons.com/assets/images/courses/yoga/easy-yoga-pose.jpg"
               />
             </div>
           </div>

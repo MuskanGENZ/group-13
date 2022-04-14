@@ -52,7 +52,7 @@ const Busyyoga = () => {
             alignItems: "center",
           }}
         >
-          <h4 className="text-primary">FIT ME</h4>
+          <h4 className="text-primary">Yogmaya</h4>
           <h2 className="text-md text-center">
             <i>7 Yoga Poses For Office Workers </i>
           </h2>

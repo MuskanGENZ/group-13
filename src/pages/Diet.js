@@ -30,7 +30,7 @@ import RestaurantIcon from '@mui/icons-material/Restaurant';
     </div>
     <hr style={{ margin: "40px 0" }} />
     <div className="container my-4" style={{display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
-      <h4 className="text-primary">FIT ME</h4>
+      <h4 className="text-primary">Yogmaya</h4>
       <h2 className="text-md"><i>So, what makes a ‘yogic diet’? </i></h2>
       {/* <p>
         It will be as simple as occidental. In fact, it will be Occidental.

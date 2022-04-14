@@ -8,7 +8,7 @@ const Header = () => {
    
         <nav className="navbar navbar-expand-sm navbar-white sticky-top shadow-lg" aria-label="Third navbar example" id="navm">
         <div className="container-fluid ">
-          <Link className="navbar-brand text-white" to="#">FIT ME</Link>
+          <Link className="navbar-brand text-white" to="#">YOGMAYA</Link>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample03" aria-controls="navbarsExample03" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon "> </span>
             
@@ -43,13 +43,14 @@ const Header = () => {
                   <li><Link className="dropdown-item text-center fs-6 text-dark" to="/Core"id="zxc"> Build Strong Core</Link></li>
                   <li><Link className="dropdown-item text-center fs-6 text-dark" to="/Flexibility"id="zxc"> Flexibility</Link></li>
                   <li><Link className="dropdown-item text-center fs-6 text-dark" to="/Weightloss"id="zxc">Weightloss</Link></li>
+                  <li><Link className="dropdown-item text-center fs-6 text-dark" to="/Prenatal"id="zxc">Prenatal yoga</Link></li>
                 </ul>
               </li>
               </ul>
               <div  class="text-end  ">
                 <ul class="text-end mb-2 mb-sm-0  " >
               <li className="btn text-white text-center">
-                <Link className="text-white text-decoration-none fs-5  text-center"id="zxc" to="/Contact"><ContactPhone></ContactPhone> Contact US</Link>
+                <Link className="text-white text-decoration-none fs-5  text-center"id="zxc" to="/Contact"><ContactPhone/> Contact US</Link>
               </li>
               </ul>
               </div>

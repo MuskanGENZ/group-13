@@ -15,7 +15,7 @@ function Hero() {
             alt="First slide"
           />
           <Carousel.Caption>
-            <h3 className="slideleft">FIT ME</h3>
+            <h3 className="slideleft">Yogmaya</h3>
             <h5 className="slideleft"><i>"Yoga is the journey of the self, through the self, to the self.”</i></h5>
           </Carousel.Caption>
         </Carousel.Item>
@@ -50,7 +50,7 @@ function Hero() {
     <div className="container my-4" style={{display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
      
    
-      <h6 className="text-primary"><i>FIT ME</i></h6>
+      <h6 className="text-primary"><i>Yogmaya</i></h6>
       <h1 className="text-md">ABOUT US</h1>
 
      
