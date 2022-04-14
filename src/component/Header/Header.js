@@ -1,17 +1,16 @@
 import React from "react"
 import { Link } from "gatsby"
-import { ContactPhone, Home } from "@mui/icons-material"
-import Contact from "../../pages/Contact"
-
+import { ContactPhone, Home, SelfImprovement } from "@mui/icons-material"
+import SelfImprovementIcon from '@mui/icons-material/SelfImprovement';
 const Header = () => {
   return (
    
         <nav className="navbar navbar-expand-sm navbar-white sticky-top shadow-lg" aria-label="Third navbar example" id="navm">
         <div className="container-fluid ">
-          <Link className="navbar-brand text-white" to="#">YOGMAYA</Link>
+          <Link className="navbar-brand text-white" to="#"><SelfImprovement fontSize="large"></SelfImprovement>  YOGMAYA</Link>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample03" aria-controls="navbarsExample03" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon "> </span>
-            
+           
           </button>
     
           <div className="collapse navbar-collapse" id="navbarsExample03">
@@ -48,9 +47,12 @@ const Header = () => {
               </li>
               </ul>
               <div  class="text-end  ">
-                <ul class="text-end mb-2 mb-sm-0  " >
+                <ul class="text-end mb-2 mb-sm-0" >
               <li className="btn text-white text-center">
                 <Link className="text-white text-decoration-none fs-5  text-center"id="zxc" to="/Contact"><ContactPhone/> Contact US</Link>
+              </li>
+              <li className="btn text-white text-center">
+                <Link className="text-white text-decoration-none fs-5  text-center"id="zxc" to="/Feedback"><ContactPhone/> Feedback</Link>
               </li>
               </ul>
               </div>

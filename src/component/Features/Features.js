@@ -33,7 +33,7 @@ const Features = () => {
       </div>
       <div class="col-lg-4">
       <img alt="Card image cap" width="140" height="140" class="card-img-top img-fluid shadow" src="https://blog.yogamatters.com/wp-content/uploads/2021/06/surya-namaskar.png" />
-        <h4><PersonHeart></PersonHeart>SURYA NAMASKAR</h4>
+        <h4><PersonHeart class="bi  flex-shrink-0 m-3"></PersonHeart>SURYA NAMASKAR</h4>
         <p><i>Surya namaskar is not just a yoga pose to the sun. It has many benefits that help boost your overall health.</i></p>
         <p><Link class="btn btn-light" to="/Surya">View details &raquo;</Link></p>
       </div>

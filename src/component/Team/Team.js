@@ -5,25 +5,25 @@ import Image from "../Images/Images"
 
 const Items = [
   {
-    name: "member1",
+    name: "1",
     facebook: "https://www.facebook.com",
     instagram: "https://www.instagram.com",
     linkedin: "https://www.linkedin.com",
   },
   {
-    name: "member2",
+    name: "1",
     facebook: "https://www.facebook.com",
     instagram: "https://www.instagram.com",
     linkedin: "https://www.linkedin.com",
   },
   {
-    name: "member3",
+    name: "1",
     facebook: "https://www.facebook.com",
     instagram: "https://www.instagram.com",
     linkedin: "https://www.linkedin.com",
   },
   {
-    name: "member4",
+    name: "1",
     facebook: "https://www.facebook.com",
     instagram: "https://www.instagram.com",
     linkedin: "https://www.linkedin.com",
@@ -45,9 +45,9 @@ const Team = () => {
                     margin: "0 auto",
                     height: "200px",
                     width: "200px",
-                    borderRadius: "100%",
+                    borderRadius: "10%",
                   }}
-                  filename={`${item.name}.jpg`}
+                  filename={`${item.name}.jpeg`}
                   alt="1"
                 />
                 <h3 className="m-2">{item.name}</h3>
