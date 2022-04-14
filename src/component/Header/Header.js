@@ -6,7 +6,7 @@ import Contact from "../../pages/Contact"
 const Header = () => {
   return (
    
-        <nav className="navbar navbar-expand-sm navbar-white sticky-top shadow-lg" aria-label="Third navbar example">
+        <nav className="navbar navbar-expand-sm navbar-white sticky-top shadow-lg" aria-label="Third navbar example" id="navm">
         <div className="container-fluid ">
           <Link className="navbar-brand text-white" to="#">FIT ME</Link>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample03" aria-controls="navbarsExample03" aria-expanded="false" aria-label="Toggle navigation">
@@ -17,7 +17,7 @@ const Header = () => {
           <div className="collapse navbar-collapse" id="navbarsExample03">
            
             <ul className="navbar-nav m-auto mb-2 mb-sm-0 ">
-              <li className="btn text-white">
+              <li className="btn text-white  ">
                 <Link className="text-white text-decoration-none fs-5" id="zxc" aria-current="page" to="/">HOME</Link>
               </li>
               <li className="btn text-white ">
@@ -46,10 +46,10 @@ const Header = () => {
                 </ul>
               </li>
               </ul>
-              <div  class="text-end ">
-                <ul class="text-end m-auto mb-2 mb-sm-0" >
+              <div  class="text-end  ">
+                <ul class="text-end mb-2 mb-sm-0  " >
               <li className="btn text-white text-center">
-                <Link className="text-white text-decoration-none fs-5  text-center "id="zxc" to="/Contact"><ContactPhone></ContactPhone>Contact US</Link>
+                <Link className="text-white text-decoration-none fs-5  text-center"id="zxc" to="/Contact"><ContactPhone></ContactPhone> Contact US</Link>
               </li>
               </ul>
               </div>
@@ -61,5 +61,7 @@ const Header = () => {
     }
     
 export default Header
+
+
 
 
