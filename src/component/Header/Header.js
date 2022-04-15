@@ -31,6 +31,9 @@ const Header = () => {
               <li className="btn text-white ">
                 <Link className="text-white text-decoration-none fs-5"id="zxc" to="/Scdh">SCHEDULE</Link>
               </li>
+              <li className="btn text-white ">
+                <Link className="text-white text-decoration-none fs-5"id="zxc" to="/Yoga">YOGA</Link>
+              </li>
               <li className="nav-item dropdown text-white text-center"id="zxc">
                 <Link className="nav-link dropdown-toggle text-white fs-5" href="/" id="dropdown05" data-bs-toggle="dropdown" aria-expanded="false">YOGA</Link>
                 <ul className="dropdown-menu " aria-labelledby="dropdown03">

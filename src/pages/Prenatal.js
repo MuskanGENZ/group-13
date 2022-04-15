@@ -22,36 +22,34 @@ const Prenatal = () => {
                 class="bd-placeholder-img"
                 width="100%"
                 height="100%"
-                src="https://cdn.dribbble.com/users/218857/screenshots/4419918/yoga.gif"
+                src="https://www.verywellfamily.com/thmb/yKWpIglSzxq039n8cQo16439LiE=/1500x1000/filters:fill(D7DFF5,1)/yoga-poses-to-avoid-during-pregnancy-5181459-notext-FINAL-108d1fec65d54477a71cfc88a561cb2d.png"
                 aria-hidden="true"
                 preserveAspectRatio="xMidYMid slice"
                 focusable="false"
               ></img>
 
               <div class="container">
-                <div class="carousel-caption text-start">
-                  <h2 class="text-white">  Getting to the Core of it!!</h2>
-                  <h4>
-                    <i class="text-white">
-                    One the most obvious physical manifestations of this is the balance between flexibility and strength in an asana practice.
-                    
-                    </i>
-                  </h4>
+                <div class="carousel-caption  text-center">
+                  <h2 class="text-dark">A Complete Guide to Prenatal Yoga</h2>
+                 
                 </div>
               </div>
             </div>
           </div>
         </div>
-        <hr style={{ margin: "40px 0" }} />
+        <hr style={{ margin: "30px 0" }} />
 
-        <hr style={{ margin: "40px 0" }} />
+   
 
 <div class="col-lg-6 mx-auto text-center ">
-<h2 className="text-md"><i>Prenatal Yoga Poses for Every Trimester</i></h2>
+<h2 className="text-md"><i>What Prenatal Yoga Can Do for You?</i></h2>
  <p class="lead mb-4 text-muted">
    <i>
-   During your pregnancy, it’s important to stay active while also prioritizing rest. Prenatal yoga offers you the chance to get in touch with your body as you build strength, improve flexibility, and develop balance.These benefits can help promote mental and physical relaxation, ease pregnancy symptoms, and create positive mental patterns. You’ll also learn how to adapt to all the changes that occur during pregnancy.Read on to learn about prenatal yoga in each trimester, the benefits, and the precautions.
+   When you’re pregnant, it may sometimes feel like your body has been taken over by an alien. All the things you thought you knew about yourself go out the window as your body does its amazing work. Change that is out of your control can lead you to feel disconnected from your sense of self.
 
+In yoga, it's often said that your body is different every time you get on the mat. You work on accepting that change is constant. In pregnancy, this is doubly true. Yoga helps you reconnect with your body and embrace its journey. 
+
+Prenatal yoga classes help prepare you for the birthing process and allow you to enjoy the company of other pregnant women.
    </i>
  </p>
 </div>

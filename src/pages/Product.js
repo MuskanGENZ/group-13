@@ -37,7 +37,7 @@ const Product = () => {
     </div>
   </section>
 
-       
+   <div className="container"> 
   <div class="album mx-4 bg-light ">
     <div class=""id="qwe" >
 
@@ -249,6 +249,7 @@ const Product = () => {
          </div>
          </div>
          </div>
+         </div>   
          </>
      </Layout>
     
