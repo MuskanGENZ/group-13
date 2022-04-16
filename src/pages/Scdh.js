@@ -1,6 +1,6 @@
 import React from "react"
 import Layout from "../component/Layout/Layout"
-
+import DateRangeIcon from '@mui/icons-material/DateRange';
 const Scdh = () => {
   return (
     <Layout>
@@ -30,7 +30,7 @@ const Scdh = () => {
     </div>
     <hr style={{ margin: "40px 0" }} />
     <div className="container my-4" style={{display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
-      <h4 className="text-primary">Yogmaya</h4>
+      <h6 className="text-primary">Yogmaya</h6>
       <h2 className="text-md"><i>What schedule is best when you are a beginner? </i></h2>
        <p className="text-muted"><i>
       Always consult your doctor if you have any concerns
@@ -76,7 +76,7 @@ const Scdh = () => {
 <div className="row featurette">
   <div className="col-md-7">
     <h2 className="featurette-heading">
-   <span className="text-muted">Bring the Fun</span>
+   <span className="text-muted">3.Bring the Fun</span>
     </h2>
     <p className="lead">
       <i className="text-muted">"Find a class that you enjoy and consider fun. You’re putting the power of psychology to work for you; if it’s fun, you’ll want to keep doing it.One more plug for psychology—give yourself an incentive.Next time you have to hold a challenging pose, try the simple act of curling the corners of the mouth up into a smile and I guarantee, you will immediately start to enjoy the experience more. Set up a reward system for when you finish a week of classes or your first month. Having something to look forward to is motivating.
@@ -91,6 +91,12 @@ const Scdh = () => {
 </div>
 </div>
 <hr style={{ margin: "40px 0" }} />
+
+    <div className="container my-4" style={{display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
+      <h6 className="text-primary">Yogmaya</h6>
+      <h2 className="text-md"><DateRangeIcon  fontSize="large"> </DateRangeIcon> <i>SCHEDULE</i></h2>
+      
+    </div>
         
     <div class="table-responsive container">
     <table class="table">

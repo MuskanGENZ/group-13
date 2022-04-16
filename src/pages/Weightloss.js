@@ -69,12 +69,12 @@ Yoga is known for its incredible benefits such as increasing flexibility and str
            <i>Standing Side Bend is not just merely performing a standing and bending stretch. You have to focus on breathing while you stretch. With each exhale, you stretch your body a little more and open up the muscle tissues around your rib cage and spine.
                How to do the Standing Side Bend:
 Stand tall with both your feet and legs together. On inhale, reach both arms straight up towards the ceiling. On exhale, hold your hands together and lower your right arm down towards the right side of your body. At the same time, bend right from the waist. Hold this pose for 5 breaths. As you exhale, lengthen the left arm over the head and bend your body deeper to the right.To release, inhale and bend back to the center from your waist, returning your arms to center. Repeat on the left side for 5 breaths.
-Tips: As you bend to the side, squeeze and engage your core, glutes and quadriceps completely. This provides a solid base of support and stability so you can focus on stretching even further and deeper into the pose.</i>
+Tips: As you bend to the side, squeeze and engage your core, glutes and quadriceps completely. </i>
             </p>
             
           </div>
           <div className="col-md-5 order-md-1">
-          <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://www.fitsri.com/wp-content/uploads/2020/03/Easy-Pose-1.jpg" />
+          <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://thumbs.gfycat.com/DelightfulNaturalIcelandgull-size_restricted.gif" />
           
           </div>
         </div>
@@ -87,9 +87,7 @@ Tips: As you bend to the side, squeeze and engage your core, glutes and quadrice
               <span className="text-muted">2. Extended Triangle Pose </span>
             </h2>
             <p className="lead text-muted">
-            <i> The extended triangle pose stretches the lower body including hamstrings, hips, groins, and calves, and upper body including shoulders, chest, and spine.
-Aside from improving flexibility, it also strengthens the muscles in thighs and tones the knees and ankles.
-How to do the Extended Triangle Pose:
+            <i> 
 
  Begin standing with your feet hip-distance apart. Next, step your feet wide apart, about 3 to 4 feet.
  Turn your right foot out 90 degrees. Keep both of your heels aligned.On exhale, extend your torso to the right and bend from the hip joint. Strengthen the left leg and press the outer heel firmly to the floor. Gently rotate the torso to the left to keep two sides equally long.Place your right hand on your shin, ankle or the floor outside your right foot, wherever that is comfortable without distorting the sides of the torso.Now stretch your left arm toward the ceiling until it’s in line with the tops of your shoulders.Turn your head to the left gently so your eyes are gazing softly at the left thumb.Hold this pose for 1 minute.To release, inhale and press your left heel strongly into the floor while lifting your torso. Relax and lower your arms.Repeat for the same length of time for the opposite side..</i>
@@ -97,7 +95,7 @@ How to do the Extended Triangle Pose:
            
           </div>
           <div className="col-md-5">
-            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://images.healthshots.com/healthshots/en/uploads/2019/11/20010410/cat-cow.gif" />
+            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://thumbs.gfycat.com/AnxiousIgnorantBluet-size_restricted.gif" />
           </div>
         </div>
   
@@ -110,13 +108,7 @@ How to do the Extended Triangle Pose:
       <span className="text-muted">3. Standing Forward Bend</span>
     </h2>
     <p className="text-muted lead">
-   <i>Doing the standing forward bend stretches the hamstrings, calves, hips and your upper back.
-
- This pose is especially great for tight and tired upper back muscles. The gentle pull created by the weight of your arms pulling down to the ground will help to release the tightness of your shoulders and the middle and upper back.
-
-If you have been hunching your shoulders up around your ears or doing anything that causes your upper back and shoulders to become tired, this will be great for relieving your back.
-
-How to do the Standing Forward Bend:
+   <i>
 Stand with your heels slightly apart. On exhale, bend forward from your hip joints (not from the waist). Like all the forward bends, the focus is on lengthening of the front torso as you move into the position fully.
 Cross your forearms and hold your elbows. Press your heels firmly into the floor and try to lift your butt towards the ceiling.
 As you inhale, lengthen the front torso slightly, and on exhale, release a little more into the forward bend. Allow your head to hang.
@@ -127,7 +119,7 @@ Tips: Don’t worry if you do not have the flexibility to do the pose, you can p
     
   </div>
   <div className="col-md-5 order-md-1">
-  <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://c.tenor.com/dPLJkTaa4q0AAAAC/meditate-mariana-humeniuk.gif" />
+  <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://thumbs.gfycat.com/AntiqueNecessaryAsiaticgreaterfreshwaterclam-size_restricted.gif" />
   
   </div>
 </div>
@@ -152,7 +144,7 @@ Tips: Don’t worry if you do not have the flexibility to do the pose, you can p
            
           </div>
           <div className="col-md-5">
-            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://64.media.tumblr.com/a8c9395a0a31333fd50678dca928f7bb/tumblr_o3j8l8CCXV1rysr6eo1_400.gifv" />
+            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://thumbs.gfycat.com/DarkDentalJackal-max-1mb.gif" />
           </div>
         </div>
 
@@ -191,7 +183,7 @@ Tips: If you have very tight hips, you can keep your knees and thighs together.<
             <p className="text-muted lead">
             <i> The Camel Pose increases flexibility in the spine, opens the chest and shoulders, and improves circulation and digestion. It also stretches the front of the body including the quadriceps, chest and abdomen.
 
-Backbends like Camel Pose can counteract slouching and restore the natural flexibility of your spine.
+
 
 How to do the Camel Pose:
 
@@ -205,21 +197,17 @@ To release, bring your chin toward your chest. Hands to your hips. Using your co
            
           </div>
           <div className="col-md-5">
-            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://thumbs.gfycat.com/EsteemedSpicyBeaver-max-1mb.gif" />
+            <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://thumbs.gfycat.com/AcclaimedGorgeousAsiaticgreaterfreshwaterclam-max-1mb.gif" />
           </div>
         </div>
-
         <hr className="featurette-divider" style={{margin: "40px"}}></hr>
-
-<div className="row featurette">
-  <div className="col-md-7 order-md-2">
-    <h2 className="featurette-heading">
-    
-      <span className="text-muted">7. Runner’s Lunge</span>
-    </h2>
-    <p>
-   <i className="text-muted lead">The Runner’s Lunge is one of the best poses to get flexible at age 40 because it’s perfect for stretching your lower body including the hips, groin and legs.
-
+        <div className="row featurette">
+          <div className="col-md-7 order-md-2">
+            <h2 className="featurette-heading">
+              <span className="text-muted">7. Runner’s Lunge</span>
+            </h2>
+            <p className="text-muted lead">
+            <i>  
 It’s great for those who are experiencing hip pain and tightness because this pose relieves your lower body from tension.
 
 This pose focuses on your legs since you’ll be able to rest your hands on the floor.
@@ -231,11 +219,15 @@ On inhale, step your left foot toward the front edge of your mat so that your le
 Now hold this position and try to release your hips into gravity, relaxing your muscles. While doing this, you will feel a deeper stretch in your hips.
 Hold this pose for at least 30 seconds.
 Repeat on the other side.</i>
-    </p>
-    
+            </p>
+           
+          </div>
+  <div className="col-md-5 order-md-1">
+  <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://www.verywellfit.com/thmb/WmEQ89c75zD-9xLF_P72I3mdSHQ=/2667x2000/smart/filters:no_upscale()/69-3119998-Jump-Lunge-GIF-df2c0847f8c14a609380f3b89eb855b1.gif" />
   
-        </div>
-        </div>
+  </div>
+  </div>
+      
         </div>
         <div>
 

@@ -1,16 +1,16 @@
 import React from "react"
 import { Link } from "gatsby"
-import QuestionAnswerIcon from '@mui/icons-material/QuestionAnswer';
-import { Bag, BagCheck, EnvelopeOpen, GiftFill, PersonHeart, PersonHearts, Speedometer, StopFill } from "react-bootstrap-icons"
-import Image from "../Images/Images"
 
+import Image from "../Images/Images"
+import GroupsIcon from '@mui/icons-material/Groups';
+import QuestionAnswerIcon from '@mui/icons-material/QuestionAnswer';
 const Team = () => {
   return (
     <>
 <section id="team" class="pb-5">
 <div className="container my-4" style={{display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
 <h6 className="text-primary"><i>Yogmaya</i></h6>
-      <h1 className="text-md">OUR TEAM</h1>
+      <h1 className="text-md"><GroupsIcon fontSize="large"  color="secondary"></GroupsIcon>  OUR TEAM</h1>
       <hr style={{ margin: "20px 0" }} />
         <div class="row">
          
@@ -102,7 +102,7 @@ const Team = () => {
                 </div>
             </div>
           
-            <div class="col-xs-12 col-sm-6 col-md-4 ">
+            <div class="col-xs-12 col-sm-6 col-md-5 m-auto" >
                 <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
                     <div class="mainflip">
                         <div class="frontside">
@@ -131,7 +131,7 @@ const Team = () => {
                 </div>
             </div>
      
-            <div class="col-xs-12 col-sm-6 col-md-4 me-5">
+            <div class="col-xs-12 col-sm-6 col-md-5 m-auto ">
                 <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
                     <div class="mainflip">
                         <div class="frontside">
@@ -168,9 +168,9 @@ const Team = () => {
 <div className="container">
 
 
-    <div className="container my-4" style={{display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
-      <h5 className="text-primary">Yogmaya</h5>
-      <h2 className="text-md"><i>Frequently Asked Questions  </i></h2>
+    <div className="container my-2" style={{display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
+      <h6 className="text-primary">Yogmaya</h6>
+      <h2 className="text-md"><QuestionAnswerIcon></QuestionAnswerIcon>  <i>Frequently Asked Questions  </i></h2>
  
     </div>
     <hr style={{ margin: "10px 0" }} />
@@ -184,7 +184,7 @@ const Team = () => {
                 type="button"
                 data-bs-toggle="collapse"
                 data-bs-target="#collapseOne"
-                aria-expanded="true"
+                aria-expanded="false"
                 aria-controls="collapseOne"
               >
              🔹 How often and for how long should I do the asanas?
@@ -314,7 +314,7 @@ const Team = () => {
               </button>
             </h2>
             <div
-              id="collapseFive"
+              id="collapseSix"
               class="accordion-collapse collapse"
               aria-labelledby="headingSix"
               data-bs-parent="#accordionExample"

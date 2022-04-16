@@ -1,5 +1,7 @@
 import { Carousel } from "react-bootstrap";
+import GroupsIcon from '@mui/icons-material/Groups';
 import React from "react";
+import EmojiPeopleIcon from '@mui/icons-material/EmojiPeople';
 
 function Hero() {
   return (
@@ -51,7 +53,7 @@ function Hero() {
      
    
       <h6 className="text-primary"><i>Yogmaya</i></h6>
-      <h1 className="text-md">ABOUT US</h1>
+      <h1 className="text-md"> ABOUT US</h1>
 
      
     </div>
@@ -62,7 +64,7 @@ function Hero() {
          
             </h2>
             <p className="lead slideleft">
-            <h3 className="text-primary"><i> About us...</i></h3>
+            <h3 className="text-primary"><EmojiPeopleIcon  color="secondary" fontSize="large"></EmojiPeopleIcon><i> About us...</i></h3>
             <i className="text-muted">"We believe that real yoga is not about standing on your head and contorting yourself into knots. Yoga is about finding your centre. It’s a way of developing inner strength."We believe, every being deserves to enjoy a happy and fulfilled life doing the things they love.Our site is aimed for everyone but especially for those that are feeling a bit overwhelmed with life, feeling stressed or anxious, and just need a bit of unconditional love and guidance.You don’t need to be ‘spiritual’ to do yoga and meditation and you can still gain the variety of benefits such as reducing stress, manage anxiety, enhance self-awareness, improve sleep, amongst others.Experiencing freedom of movement and mobility, embracing all life situations with a positive mindset, cultivating a life of abundance and opportunity, blissful sleep, balanced hormones, optimised gut health... do any of these feel out of reach to you right now? If so,scroll down and check out our page.</i>
             </p>
           </div>

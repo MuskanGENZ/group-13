@@ -2,7 +2,7 @@ import React from "react"
 import Layout from "../component/Layout/Layout"
 import { Link } from "gatsby"
 import RestaurantIcon from '@mui/icons-material/Restaurant';
-
+import DateRangeIcon from '@mui/icons-material/DateRange';
  const Diet = () => {
   return (
     <Layout>
@@ -20,7 +20,7 @@ import RestaurantIcon from '@mui/icons-material/Restaurant';
 
       <div >
         <div class="carousel-caption text-start ">
-          <h1 class="text-white"><RestaurantIcon color="secondary"/>DIET  </h1>
+          <h1 class="text-white"><RestaurantIcon color="secondary"/> DIET  </h1>
           <h4><i class="text-white">If you want to know more about the concept of a yoga diet and exactly what kind of diet is best to complement your yoga practice, then you’re in the right place!</i></h4>
           
         </div>
@@ -30,7 +30,7 @@ import RestaurantIcon from '@mui/icons-material/Restaurant';
     </div>
     <hr style={{ margin: "40px 0" }} />
     <div className="container my-4" style={{display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
-      <h4 className="text-primary">Yogmaya</h4>
+      <h6 className="text-primary">Yogmaya</h6>
       <h2 className="text-md"><i>So, what makes a ‘yogic diet’? </i></h2>
       {/* <p>
         It will be as simple as occidental. In fact, it will be Occidental.
@@ -105,37 +105,19 @@ import RestaurantIcon from '@mui/icons-material/Restaurant';
   </div>
 </div>
 
-        <hr className="featurette-divider" style={{margin: "40px"}}></hr>
-
-        {/* <div className="row featurette">
-       
-        </div>
-        <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-indicators">
-    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-    
-  </div>
-  <div class="carousel-inner">
-    <div class="carousel-item active">
 
 
-<img class="bd-placeholder-img" width="100%" height="100%" src="https://i.pinimg.com/736x/0b/fe/1f/0bfe1ffc6a031e9f2f1c6bc31a505d39.jpg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"></img>
     </div>
-    </div>
-    </div>
-      </div>
-
-    <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-indicators">
-    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-    
-  </div>
-    </div> */}
+    <hr style={{ margin: "40px 0" }} />
+    <div className="container my-4" style={{display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
+      <h6 className="text-primary">Yogmaya</h6>
+      <h2 className="text-md"><DateRangeIcon  fontSize="large"> </DateRangeIcon> <i>DIET CHART</i></h2>
+      
     </div>
     <div class="table-responsive container">
     <table class="table">
   <thead class="thead-dark">
-    <tr>
+    <tr class="table-secondary">
       <th scope="col">#</th>
       <th scope="col">Space</th>
       <th scope="col">Monday</th>
@@ -148,7 +130,7 @@ import RestaurantIcon from '@mui/icons-material/Restaurant';
     </tr>
   </thead>
   <tbody>
-    <tr class="table-danger">
+    <tr class="table-warning">
       <th scope="row">1</th>
       <td>Early Morning 5-6AM</td>
       <td>Apple</td>
@@ -181,7 +163,7 @@ import RestaurantIcon from '@mui/icons-material/Restaurant';
       <td>Dates</td>
       <td>2 Biscuits</td>
     </tr>
-    <tr class="table-success">
+    <tr class="table-warning">
       <th scope="row">4</th>
       <td>Mid Morning 11AM</td>
       <td>1 glass Buttermilk with jeera Powder with salt</td>
@@ -214,7 +196,7 @@ import RestaurantIcon from '@mui/icons-material/Restaurant';
       <td>Curd</td>
       <td>Curd</td>
     </tr>
-    <tr class="table-danger">
+    <tr class="table-warning">
       <th scope="row">7</th>
       <td>Evening Snack 5PM</td>
       <td>Fruit/Green tea</td>

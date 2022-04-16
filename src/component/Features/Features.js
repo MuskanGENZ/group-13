@@ -42,7 +42,7 @@ const Features = () => {
     </div>
     <hr style={{ margin: "40px 0" }} />
     <div className="container my-4" style={{display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
-      <h4 className="text-primary">Yogmaya</h4>
+      <h6 className="text-primary">Yogmaya</h6>
       <h2 className="text-md"><i>What our CLIENTS says<EnvelopeOpen class="bi text-muted flex-shrink-0 m-3"></EnvelopeOpen></i></h2>
       {/* <p>
         It will be as simple as occidental. In fact, it will be Occidental.
