@@ -192,7 +192,7 @@ const Team = () => {
             </h2>
             <div
               id="collapseOne"
-              class="accordion-collapse collapse show"
+              class="accordion-collapse collapse"
               aria-labelledby="headingOne"
               data-bs-parent="#accordionExample"
             >

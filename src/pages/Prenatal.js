@@ -240,7 +240,8 @@ const Prenatal = () => {
                   in front of you. Breathe deeply. Hold this pose for up to 1
                   minute. Modifications: Place a cushion or folded blanket under
                   your forehead for support. Widen your toes if you feel
-                  discomfort in your knees or need more space for your belly.
+                  discomfort in your knees or need more space for your belly.Child’s pose gently stretches your spine, thighs, hips, and ankles.
+                  Along with deep breathing exercises, child’s pose can calm your mind, reducing anxiety and fatigue.
                 </i>
               </p>
             </div>
@@ -264,7 +265,7 @@ const Prenatal = () => {
                 </span>
               </h2>
               <p className="lead">
-                <i>
+                <i className="text-muted">
                   This strengthening pose gives you a burst of energy while
                   relieving neck and back tension. Stand with feet slightly
                   wider than hips. Turn left toes forward and right toes in at a
@@ -273,10 +274,7 @@ const Prenatal = () => {
                   your hip to extend your torso forward. Place left hand on your
                   leg, the floor, or a block. Extend right arm up with palm
                   facing away from your body. Hold this pose for up to 30
-                  seconds. Repeat on the other side. Modifications: Do this pose
-                  next to a wall for support. To improve balance, shorten your
-                  stance. For neck comfort, gaze straight ahead or toward the
-                  floor.
+                  seconds. Repeat on the other side. 
                 </i>
               </p>
             </div>
@@ -286,49 +284,44 @@ const Prenatal = () => {
                 width="500"
                 height="500"
                 class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg"
-                src="https://thumbs.gfycat.com/DistantAdorableKiskadee-max-1mb.gif"
+                src="https://i.pinimg.com/originals/ed/72/0c/ed720c529f9361e969e06a4984bcbdf2.gif"
               />
             </div>
-          </div>
-          <hr className="featurette-divider" style={{ margin: "40px" }}></hr>
+          </div><hr className="featurette-divider" style={{ margin: "40px" }}></hr>
 
-          <div className="row featurette">
-            <div className="col-md-7">
-              <h2 className="featurette-heading">
-                <span className="text-muted">
-                  4.Standing Forward Bend (Uttanasana)
-                </span>
-              </h2>
-              <p className="lead">
-                <i>
-                  This pose relieves tension and promotes inner calm. Stand with
+<div className="row featurette">
+  <div className="col-md-7 order-md-2">
+    <h2 className="featurette-heading">
+      <span className="text-muted"> 4.Standing Forward Bend (Uttanasana)</span>
+    </h2>
+    <p className="lead">
+      <i className="text-muted">
+      This pose relieves tension and promotes inner calm. Stand with
                   feet slightly wider than hips. Hinge at your hips to fold
                   forward. Keep knees slightly bent. Place hands on the floor or
                   a block or hold opposite elbows. Hold this pose for up to 30
-                  seconds.
-                </i>
-              </p>
-            </div>
-            <div className="col-md-5">
-              <img
-                alt="Card image cap"
-                width="500"
-                height="500"
-                class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg"
-                src="https://thumbs.gfycat.com/DistantAdorableKiskadee-max-1mb.gif"
-              />
-            </div>
-          </div>
-          <hr className="featurette-divider" style={{ margin: "40px" }}></hr>
-
-          <div className="row featurette">
-            <div className="col-md-7">
-              <h2 className="featurette-heading">
-                <span className="text-muted">#Third trimester yoga poses </span>
-              </h2>
-              <p className="lead">
-                <i>
-                  Because your baby is now taking up more space, you may have
+                  seconds.Hinge forward from the crease at the front of the hips, moving the pelvis and sacrum together, to protect the lower back.Standing Forward Bend calms the brain and helps relieve stress. This pose also stimulates the liver and kidneys, and stretches the hamstrings, calves, and hips.
+      </i>
+    </p>
+  </div>
+  <div className="col-md-5 order-md-1">
+    <img
+      alt="Card image cap"
+      width="500"
+      height="500"
+      class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg"
+      src="https://i.pinimg.com/originals/02/8f/cd/028fcde9a4f9ddbe8486fe0b36569f96.gif"
+    />
+  </div>
+</div>
+<hr className="featurette-divider" style={{ margin: "40px" }}></hr>
+          <div class="col-lg-6 mx-auto text-center ">
+            <h2 className="text-md">
+              <i>#Third trimester yoga poses</i>
+            </h2>
+            <p class="lead mb-4 text-muted">
+              <i>
+              Because your baby is now taking up more space, you may have
                   more difficulty breathing and moving with ease. Take it easy,
                   move gently, and rest as much as you like. In the third
                   trimester, you should avoid: intense backbends, twists, and
@@ -336,19 +329,10 @@ const Prenatal = () => {
                   inversions (unless you’re very experienced) jumping, hopping,
                   or bouncing hot yoga lying on your back or your right side arm
                   balances squats if you’re prone to prolapse
-                </i>
-              </p>
-            </div>
-            <div className="col-md-5">
-              <img
-                alt="Card image cap"
-                width="500"
-                height="500"
-                class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg"
-                src="https://thumbs.gfycat.com/DistantAdorableKiskadee-max-1mb.gif"
-              />
-            </div>
+              </i>
+            </p>
           </div>
+   
 
           <hr className="featurette-divider" style={{ margin: "40px" }}></hr>
 
@@ -356,10 +340,10 @@ const Prenatal = () => {
             <div className="col-md-7">
               <h2 className="featurette-heading">
                 <span className="text-muted">
-                  1.Warrior II (Virabhadrasana II){" "}
+                  1.Warrior II (Virabhadrasana II)
                 </span>
               </h2>
-              <p className="lead">
+              <p className="lead text-muted">
                 <i>
                   Warrior II improves circulation, strengthens your whole body,
                   and opens your hips. It also relieves neck and back pain. This
@@ -374,7 +358,9 @@ const Prenatal = () => {
                   Modifications: Do this pose next to a wall for support. Place
                   a chair under your front thigh. To reduce the intensity,
                   decrease the bend in your front knee, shorten your stance, or
-                  step your back foot out to the side slightly.
+                  step your back foot out to the side slightly.The standing posture opens your hips and strengthens and stretches your legs and ankles.
+
+
                 </i>
               </p>
             </div>
@@ -384,21 +370,22 @@ const Prenatal = () => {
                 width="500"
                 height="500"
                 class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg"
-                src="https://thumbs.gfycat.com/DistantAdorableKiskadee-max-1mb.gif"
+                src="https://64.media.tumblr.com/b6a14f70457d543c51e4d591e76cf483/tumblr_o8pq1pYZnQ1rysr6eo1_400.gifv"
               />
             </div>
           </div>
 
+
           <hr className="featurette-divider" style={{ margin: "40px" }}></hr>
 
           <div className="row featurette">
-            <div className="col-md-7">
-              <h2 className="featurette-heading">
-                <span className="text-muted">2.Garland Pose (Malasana)</span>
-              </h2>
-              <p className="lead">
-                <i>
-                  This deep squat opens your hips and boosts digestion. Avoid
+  <div className="col-md-7 order-md-2">
+    <h2 className="featurette-heading">
+      <span className="text-muted"> 2.Garland Pose (Malasana)</span>
+    </h2>
+    <p className="lead">
+      <i className="text-muted">
+      This deep squat opens your hips and boosts digestion. Avoid
                   this pose if you’re prone to prolapse. Stand with feet
                   slightly wider than hips and toes turned out at an angle.
                   Slowly bend knees and lower your hips. Lift your heels or
@@ -408,19 +395,21 @@ const Prenatal = () => {
                   cushions for support. Position yourself near a wall or chair
                   for balance. Place a folded blanket under your heels for
                   support
-                </i>
-              </p>
-            </div>
-            <div className="col-md-5">
-              <img
-                alt="Card image cap"
-                width="500"
-                height="500"
-                class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg"
-                src="https://thumbs.gfycat.com/DistantAdorableKiskadee-max-1mb.gif"
-              />
-            </div>
-          </div>
+      </i>
+    </p>
+  </div>
+  <div className="col-md-5 order-md-1">
+    <img
+      alt="Card image cap"
+      width="500"
+      height="500"
+      class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg"
+      src="https://i.pinimg.com/originals/02/8f/cd/028fcde9a4f9ddbe8486fe0b36569f96.gif"
+    />
+  </div>
+</div>
+
+
 
           <hr className="featurette-divider" style={{ margin: "40px" }}></hr>
 
@@ -429,7 +418,7 @@ const Prenatal = () => {
               <h2 className="featurette-heading">
                 <span className="text-muted">3.Easy Pose (Sukhasana)</span>
               </h2>
-              <p className="lead">
+              <p className="lead text-muted">
                 <i>
                   This classic seated pose lengthens your spine, opens your
                   hips, and promotes mental clarity. Sit on the edge of a
@@ -440,7 +429,7 @@ const Prenatal = () => {
                   side. Modifications: Place cushions or blocks under your knees
                   for support. If it’s more comfortable, place one leg in front
                   of the other. Sit with your back against a wall to support
-                  your spine.
+                  your spine. Easy Pose may also help lower or regulate blood pressure. 
                 </i>
               </p>
             </div>
@@ -450,7 +439,7 @@ const Prenatal = () => {
                 width="500"
                 height="500"
                 class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg"
-                src="https://thumbs.gfycat.com/DistantAdorableKiskadee-max-1mb.gif"
+                src="https://i.pinimg.com/originals/96/9e/83/969e83e7590a5fae0ee1950a18c9dbf3.gif"
               />
             </div>
           </div>

@@ -62,18 +62,18 @@ const Items = [
     but: "/Weightloss",
   },
   {
-    name: "Yoga Workout For Weight Loss",
-    imag: "https://i.pinimg.com/originals/2d/ab/f2/2dabf2a96b4424a3e4e38c5016a406bc.gif",
+    name: "Yoga For Pregnant women",
+    imag: "https://static.vecteezy.com/system/resources/previews/002/211/859/original/pregnant-woman-doing-yoga-poses-vector.jpg",
 
-    des:"This yoga workout for weight loss will help burn those annoying pounds off, increasing your body flexibility.",
-    but: "/Weighloss",
+    des:"Yoga is an safe for pregnant women because, it provides relief during pregnancy, it can help prepare your body for labor and delivery.",
+    but: "/Prenatal",
   },
   {
-    name: "Yoga Workout For Weight Loss",
-    imag: "https://i.pinimg.com/originals/2d/ab/f2/2dabf2a96b4424a3e4e38c5016a406bc.gif",
+    name: "Yoga For Correcting Bad Posture",
+    imag: "https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2020/09/19132717/Posture.gif",
 
-    des:"This yoga workout for weight loss will help burn those annoying pounds off, increasing your body flexibility.",
-    but: "/Weighloss",
+    des:"Practicing these yoga poses for correcting bad posture to strengthen your core and back muscles.",
+    but: "/Posture",
   },
   {
     name: "Yoga Workout For Weight Loss",

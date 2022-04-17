@@ -34,20 +34,7 @@ const Header = () => {
               <li className="btn text-white ">
                 <Link className="text-white text-decoration-none fs-5"id="zxc" to="/Yoga">YOGA</Link>
               </li>
-              <li className="nav-item dropdown text-white text-center"id="zxc">
-                <Link className="nav-link dropdown-toggle text-white fs-5" href="/" id="dropdown05" data-bs-toggle="dropdown" aria-expanded="false">YOGA</Link>
-                <ul className="dropdown-menu " aria-labelledby="dropdown03">
-                  <li><Link className="dropdown-item text-center fs-6 text-dark" to="/Surya"id="zxc">Surya Namaskar</Link></li>
-                  <li><Link className="dropdown-item text-center fs-6 text-dark" to="/Beginners"id="zxc">what beginners should..</Link></li>
-                  <li><Link className="dropdown-item text-center fs-6 text-dark" to="/Yogabed"id="zxc"> yoga in bed</Link></li>
-                  <li><Link className="dropdown-item text-center fs-6 text-dark" to="/Busyyoga"id="zxc"> office workers</Link></li>
-                  <li><Link className="dropdown-item text-center fs-6 text-dark" to="/Benefits"id="zxc">Benefits of yoga</Link></li>
-                  <li><Link className="dropdown-item text-center fs-6 text-dark" to="/Core"id="zxc"> Build Strong Core</Link></li>
-                  <li><Link className="dropdown-item text-center fs-6 text-dark" to="/Flexibility"id="zxc"> Flexibility</Link></li>
-                  <li><Link className="dropdown-item text-center fs-6 text-dark" to="/Weightloss"id="zxc">Weightloss</Link></li>
-                  <li><Link className="dropdown-item text-center fs-6 text-dark" to="/Prenatal"id="zxc">Prenatal yoga</Link></li>
-                </ul>
-              </li>
+           
               </ul>
               <div  class="text-end  ">
                 <ul class="text-end mb-2 mb-sm-0" >

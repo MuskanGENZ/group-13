@@ -96,8 +96,8 @@ const Product = () => {
  
   {Items.map((item, i) => {
           return (
-                    <div key={i} className="col-lg-4 col-md-6 col-sm-12">
-                      <div className="card card-body shadow mb-4">
+                    <div key={i} className="col-lg-4 col-md-6 col-sm-12" >
+                      <div className="card card-body shadow mb-4 " id="mnb">
                         <img
                           className="d-block mx-lg-auto img-fluid"
                           src={item.imag}
@@ -106,7 +106,7 @@ const Product = () => {
                         
                                    margin: "0 auto",
                                   height: "270px",
-                                  width: "300px",
+                                  width: "320px",
                                  
                           }}/>
                           
