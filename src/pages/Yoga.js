@@ -1,5 +1,6 @@
 import React from 'react'
 import Layout from "../component/Layout/Layout"
+
 import { Link } from "gatsby"
 const Items = [
  
@@ -42,7 +43,7 @@ const Items = [
   },
   {
     name: "Yoga Poses to Build Strong Core",
-    imag: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/0611plank-1-1591922946.gif?crop=1.00xw:1.00xh;0,0&resize=640:*",
+    imag: "https://images.everydayhealth.com/images/deadbug307b0c9017254c6da8f4d3928be6efd2.gif?sfvrsn=f45e402f_2",
 
     des:"These yoga poses helps to develop core strength,improve posture and keep your body fit.",
     but: "/Core",
@@ -76,11 +77,11 @@ const Items = [
     but: "/Posture",
   },
   {
-    name: "Yoga Workout For Weight Loss",
-    imag: "https://i.pinimg.com/originals/2d/ab/f2/2dabf2a96b4424a3e4e38c5016a406bc.gif",
+    name: "Yoga Poses To Fall Asleep",
+    imag: "https://www.sleepadvisor.org/wp-content/uploads/2020/03/animated-image-of-a-kid-with-sensory-processing-disorder-who-cant-fall-asleep.gif",
 
-    des:"This yoga workout for weight loss will help burn those annoying pounds off, increasing your body flexibility.",
-    but: "/Weighloss",
+    des:"Roll out your yoga mat or practice this bedtime yoga poses on your bed to fall asleep faster!You will get the quality sleep you deserve!",
+    but: "/Sleep",
   },
   {
     name: "Yoga Workout For Weight Loss",

@@ -34,18 +34,20 @@ const Header = () => {
               <li className="btn text-white ">
                 <Link className="text-white text-decoration-none fs-5"id="zxc" to="/Yoga">YOGA</Link>
               </li>
+              <li className="btn text-white ">
+                <Link className="text-white text-decoration-none fs-5"id="zxc" to="/Contact">CONTACT</Link>
+              </li>
            
               </ul>
               <div  class="text-end  ">
                 <ul class="text-end mb-2 mb-sm-0" >
-              <li className="btn text-white text-center">
-                <Link className="text-white text-decoration-none fs-5  text-center"id="zxc" to="/Contact"><ContactPhone/> Contact US</Link>
-              </li>
+                  
               <li className="btn text-white text-center">
                 <Link className="text-white text-decoration-none fs-5  text-center"id="zxc" to="/Feedback"><ContactPhone/> Feedback</Link>
               </li>
               </ul>
               </div>
+              
           </div>
         </div>
       </nav>

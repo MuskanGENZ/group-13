@@ -89,7 +89,7 @@ Hold this pose for 30 seconds. </i>
     
   </div>
   <div className="col-md-5 order-md-1">
-  <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://thumbs.gfycat.com/DelightfulNaturalIcelandgull-size_restricted.gif" />
+  <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://177d01fbswx3jjl1t20gdr8j-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/Bridge-Pose.gif" />
   
   </div>
 </div>
@@ -121,7 +121,7 @@ Hold this pose for at least 1 minute.
    
   </div>
   <div className="col-md-5">
-    <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://thumbs.gfycat.com/DefensiveGlaringAustralianshelduck-max-1mb.gif" />
+    <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://i.pinimg.com/originals/36/f6/a2/36f6a2f74c1548b680eabba0c64c8b5f.gif" />
   </div>
 </div>
 
@@ -148,7 +148,7 @@ Hold this pose for 30 seconds.
 
 </div>
 <div className="col-md-5 order-md-1">
-<img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://thumbs.gfycat.com/AntiqueNecessaryAsiaticgreaterfreshwaterclam-size_restricted.gif" />
+<img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://i.makeagif.com/media/4-15-2019/XcZoKS.gif" />
 
 </div>
 </div>
@@ -161,7 +161,7 @@ Hold this pose for 30 seconds.
     <p>
     <i className="text-muted lead">
 
-If you do this pose correctly, your back and chest will instantly feel good after the stretch. Makes sure to warm up properly before doing this.
+If you do this pose correctly, your back and chest will instantly feel good after the stretch. 
 
 Start by lying down on your belly with your hands at the sides. Inhale and bend your knees to bring your heels towards your buttocks. Hold your ankles with your hands. Keep your knees hip-width apart.
 
@@ -174,7 +174,7 @@ Hold this pose for 30 seconds.</i>
    
   </div>
   <div className="col-md-5">
-    <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://thumbs.gfycat.com/DarkDentalJackal-max-1mb.gif" />
+    <img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://www.verywellfit.com/thmb/DdtLwFrC-Xpf8Ropqr45KGY7nPA=/1500x1000/filters:fill(FFDB5D,1)/bow-pose_annotated-cd5ac064c51f4d4eaaf5edf8056f175d.gif" />
   </div>
 </div>
 
@@ -200,7 +200,7 @@ Hold this position for 30 seconds and switch sides.</i>
    
   </div>
 <div className="col-md-5 order-md-1">
-<img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://i.pinimg.com/originals/1b/96/ed/1b96ed51ec41d3376c2f8ccc8fa206e4.gif" />
+<img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://i.pinimg.com/originals/46/f7/68/46f768a56a9cd1be2a59102af93f95db.gif" />
 
 </div>
 </div>
@@ -221,7 +221,7 @@ Lean until you can touch your feet with both hands simultaneously while keeping 
 
 For beginners, you may find it hard to drop into the pose straightaway. You can tilt your torso to one side to get one hand on one of your feet. Then turn your torso back to neutral and lean back to touch the other foot with the other hand.
 
-Hold for 30 seconds.</i>
+Hold for 30 seconds.It improves your posture and counteracts the effects of prolonged sitting, slouching, and kyphosis (abnormal curvature of the spine). </i>
     </p>
    
   </div>
@@ -243,24 +243,24 @@ Go into a table-top position and spread your fingers wide. Press your hands agai
 
 Makes sure your hips are in line with your shoulders and back. Keep your core tight and try to resist your tailbone from sinking towards the floor.
 
-Hold for at least 30 seconds.</i>
+Hold for at least 30 seconds.As the Plank Pose is more to do with balance and strength and less of stretch, a lot of emphasis is on the muscles at the core and the shoulders.</i>
     </p>
    
   </div>
 <div className="col-md-5 order-md-1">
-<img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://i0.wp.com/thumbs.gfycat.com/AltruisticFantasticCub-size_restricted.gif?w=1155&h=840" />
+<img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://c.tenor.com/6SOetkNbfakAAAAC/plank-abs.gif" />
 
 </div>
 </div>
 
 <hr className="featurette-divider" style={{margin: "40px"}}></hr>
 <div className="row featurette">
-  <div className="col-md-7 order-md-2">
+  <div className="col-md-7">
     <h2 className="featurette-heading">
       <span className="text-muted">8. Downward Facing Dog (Adho Mukha Svanasana) </span>
     </h2>
     <p className="text-muted lead">
-    <i>  This is one of the most basic poses if you had taken yoga before. It’s a wonderful and universal pose. Because it has so many benefits, it’s included in most yoga sequences
+    <i> 
 
 This pose strengthens the arms, core, shoulders while opening up the back, chest and shoulders.
 
@@ -272,8 +272,8 @@ Hold this for 1 minute.</i>
     </p>
    
   </div>
-<div className="col-md-5 order-md-1">
-<img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://i0.wp.com/thumbs.gfycat.com/AltruisticFantasticCub-size_restricted.gif?w=1155&h=840" />
+<div className="col-md-5">
+<img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://images.squarespace-cdn.com/content/v1/5d31ed671abe780001b2964d/1596814066673-SPP02CRJGVL6WRR4XNW8/Dylan+Werner+doing+single-leg+downward+dog+pose" />
 
 </div>
 </div>
@@ -297,14 +297,14 @@ Hold this for 30 seconds and switch sides.</i>
    
   </div>
 <div className="col-md-5 order-md-1">
-<img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://i0.wp.com/thumbs.gfycat.com/AltruisticFantasticCub-size_restricted.gif?w=1155&h=840" />
+<img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://i.pinimg.com/originals/40/f2/f9/40f2f9fe3d066dbdbb0056bc7cc2e00f.gif" />
 
 </div>
 </div>
 
 <hr className="featurette-divider" style={{margin: "40px"}}></hr>
 <div className="row featurette">
-  <div className="col-md-7 order-md-2">
+  <div className="col-md-7">
     <h2 className="featurette-heading">
       <span className="text-muted">10. Wide-Legged Forward Fold (Prasarita Padottanasana)</span>
     </h2>
@@ -321,8 +321,8 @@ Keep your core engaged and hold this pose for 30 seconds.</i>
     </p>
    
   </div>
-<div className="col-md-5 order-md-1">
-<img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://i0.wp.com/thumbs.gfycat.com/AltruisticFantasticCub-size_restricted.gif?w=1155&h=840" />
+<div className="col-md-5">
+<img alt="Card image cap"   width="500" height="500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto shadow-lg" src="https://thumbs.gfycat.com/AgedWellwornHorsefly-size_restricted.gif" />
 
 </div>
 </div>

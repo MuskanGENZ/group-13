@@ -48,7 +48,7 @@ const Items = [
   },
   {
     name: "Imported Anti Burst Gym Fitness Aerobic Yoga Ball",
-    imag: "https://m.media-amazon.com/images/I/51zsrzNXurL._SX425_.jpg",
+    imag: "https://cf.shopee.ph/file/51d8dad698fc0aa1b5582541187d5f17",
     link: "https://www.amazon.in/LETS-PLAY-Exercise-Slimming-Multi-Colour/dp/B08MFJ3T4Q/ref=sr_1_12?crid=2IK31BAD3TJUW&keywords=yoga+ball&qid=1650044607&sprefix=yoga+ball%2Caps%2C324&sr=8-12",
 
   },
@@ -105,7 +105,7 @@ const Product = () => {
                           style={{
                         
                                    margin: "0 auto",
-                                  height: "270px",
+                                  height: "290px",
                                   width: "320px",
                                  
                           }}/>

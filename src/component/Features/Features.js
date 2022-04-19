@@ -33,9 +33,9 @@ const Features = () => {
       </div>
       <div class="col-lg-4">
       <img alt="Card image cap" width="140" height="140" class="card-img-top img-fluid shadow" src="https://blog.yogamatters.com/wp-content/uploads/2021/06/surya-namaskar.png" />
-        <h4><PersonHeart class="bi  flex-shrink-0 m-3"></PersonHeart>SURYA NAMASKAR</h4>
-        <p><i>Surya namaskar is not just a yoga pose to the sun. It has many benefits that help boost your overall health.</i></p>
-        <p><Link class="btn btn-light" to="/Surya">View details &raquo;</Link></p>
+        <h4><PersonHeart class="bi  flex-shrink-0 m-3"></PersonHeart>YOGA</h4>
+        <p><i>Yoga is much more. In very simple words, giving care to your body, mind and breath is yoga.</i></p>
+        <p><Link class="btn btn-light" to="/Yoga">View details &raquo;</Link></p>
       </div>
     </div>
 
@@ -52,7 +52,7 @@ const Features = () => {
         <div className="row featurette slideright1">
           <div className="col-md-7">
             <h2 className="featurette-heading">
-              <span className=""><PersonHearts class="bi text-muted flex-shrink-0 m-3"></PersonHearts>Rashmi</span>
+              <span className="">Rashmi</span>
             </h2>
             <p className="lead">
             <i className="text-muted"> "After years of back problems and poor posture yoga has provided me relief and after several months I could notice a significant improvement. Previously I tried acupuncture, physio therapy, massage, chiropractor and nothing provided me the results as yoga. I am really excited as I know as I continue I will keep strengthening and improving my body and self awareness. A super big thanks to teacher, Versha, who enlightened me and got me going, and to Ishita, both of whom have made such a difference in my life."</i>
@@ -69,7 +69,7 @@ const Features = () => {
           <div className="col-md-7 order-md-2">
             <h2 className="featurette-heading">
             
-              <span className=""><PersonHearts class="bi text-muted flex-shrink-0 m-3"></PersonHearts>Shweta</span>
+              <span className="">Shweta</span>
             </h2>
             <p className="lead">
            <i className="text-muted">"
@@ -86,7 +86,7 @@ const Features = () => {
         <div className="row featurette slideright1">
           <div className="col-md-7">
             <h2 className="featurette-heading">
-           <span className=""><PersonHearts class="bi text-muted flex-shrink-0 m-3"></PersonHearts>Veer</span>
+           <span className="">Veer</span>
             </h2>
             <p className="lead">
               <i className="text-muted">"I love the FITME experience. The authenticity, energy, expertise, TLC, inclusiveness, kindness, thoughtfulness are the type of things I appreciate the very most and you nurture that beautifully.I've developed my practice by attending a range of classes, but more importantly, I feel I've developed a deeper understanding of the art of yoga.I enjoy the variety of classes, I can always find a class that suits my mood perfectly."</i>
