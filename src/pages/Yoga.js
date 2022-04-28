@@ -88,7 +88,7 @@ const Items = [
     imag: "https://i.pinimg.com/originals/2d/ab/f2/2dabf2a96b4424a3e4e38c5016a406bc.gif",
 
     des:"This yoga workout for weight loss will help burn those annoying pounds off, increasing your body flexibility.",
-    but: "/Weighloss",
+    but: "/Weightloss",
   },
 ]
 const Yoga = () => {

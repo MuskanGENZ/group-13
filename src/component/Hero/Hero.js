@@ -37,7 +37,7 @@ function Hero() {
           <img
             className="d-block w-100"
             style={{height: 700}}
-            src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/yoga-for-beginners-main-1582136732.jpg"
+            src="https://static01.nyt.com/images/2017/03/31/well/yoga-for-strength/yoga-for-strength-jumbo.jpg"
             alt="Third slide"
           />
 

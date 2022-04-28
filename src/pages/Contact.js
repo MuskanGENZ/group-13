@@ -110,7 +110,7 @@ const Contact = () => {
                     <p className="main-hero-para ">
                       If you have any questions or queries a member of staff
                       will always be happy to help. Feel free to contact us by
-                      telephone or email and we will be sure to get back to you
+                      email and we will be sure to get back to you
                       as soon as possible.
                     </p>
                     <figure>
