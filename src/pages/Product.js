@@ -105,7 +105,7 @@ const Product = () => {
                           style={{
                         
                                    margin: "0 auto",
-                                  height: "290px",
+                                  height: "270px",
                                   width: "320px",
                                  
                           }}/>
@@ -113,8 +113,8 @@ const Product = () => {
                        
                           <div class=" card-body content text-center justify-content-center">
   <h5 className="m-2">{item.name}</h5>
-<a href="#" class="class-link" data-toggle="modal" data-target="#modalId">More</a>
-<div class="box1"><a href={item.link}>BUY NOW</a></div>
+
+<div class="box1"><a href={item.link} className="btn btn-primary">BUY NOW</a></div>
 </div>
                  
                       </div>

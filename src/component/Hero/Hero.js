@@ -29,7 +29,7 @@ function Hero() {
           />
 
           <Carousel.Caption>
-          <h3 className="slideleft"><i>"Your body is your temple, you should worship it daily.”</i></h3>
+          <h5 className="slideleft"><i>"Your body is your temple, you should worship it daily.”</i></h5>
          
           </Carousel.Caption>
         </Carousel.Item>
@@ -37,12 +37,12 @@ function Hero() {
           <img
             className="d-block w-100"
             style={{height: 700}}
-            src="https://static01.nyt.com/images/2017/03/31/well/yoga-for-strength/yoga-for-strength-jumbo.jpg"
+            src="https://cdn.statically.io/img/www.qoala.app/f=auto/id/blog/wp-content/uploads/2020/12/25-Manfaat-Yoga-untuk-Kesehatan-Tubuh-hingga-Mental.jpg"
             alt="Third slide"
           />
 
           <Carousel.Caption>
-          <h3 className="text-dark slideleft"><i>"Yoga is a light, which once lit will never dim. The better your practice, the brighter your flame.”</i></h3>
+          <h5 className=" slideleft"><i>"Yoga is a light, which once lit will never dim. The better your practice, the brighter your flame.”</i></h5>
           </Carousel.Caption>
         </Carousel.Item>
       </Carousel>

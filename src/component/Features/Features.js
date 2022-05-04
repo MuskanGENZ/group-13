@@ -21,20 +21,20 @@ const Features = () => {
         <img alt="Card image cap" width="140" height="140" class="card-img-top img-fluid shadow" src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/08/18/10/bmi-measuring-0.jpg?quality=75&width=1200&auto=webp" />
 
         <h4><Speedometer  class="bi light flex-shrink-0 m-3"></Speedometer>BMI</h4>
-        <p ><i className="text">Use this calculator to check your body mass index (BMI) and find out if you're a healthy weight or not</i></p>
+        <p ><i className="text-muted">Use this calculator to check your body mass index (BMI) and find out if you're a healthy weight or not</i></p>
         <p><Link class="btn btn-light" to="/Bmi">View details &raquo;</Link></p>
       </div>
       <div class="col-lg-4">
       <img alt="Card image cap" width="140" height="140" class="card-img-top img-fluid shadow" src="https://www.yogabaron.com/wp-content/uploads/2018/12/Yoga-props-mat-block-straps-dec17.jpg" />
 
         <h4><BagCheck  class="bi  flex-shrink-0 m-3"></BagCheck>PRODUCT</h4>
-        <p><i>Are you a yoga enthusiast and in search of the appropriate equipment and accessories?Click on view details.</i></p>
+        <p><i className="text-muted">Are you a yoga enthusiast and in search of the appropriate equipment and accessories?Click on view details.</i></p>
         <p><Link class="btn btn-light" to="/Product">View details &raquo;</Link></p>
       </div>
       <div class="col-lg-4">
       <img alt="Card image cap" width="140" height="140" class="card-img-top img-fluid shadow" src="https://blog.yogamatters.com/wp-content/uploads/2021/06/surya-namaskar.png" />
         <h4><PersonHeart class="bi  flex-shrink-0 m-3"></PersonHeart>YOGA</h4>
-        <p><i>Yoga is much more. In very simple words, giving care to your body, mind and breath is yoga.</i></p>
+        <p><i className="text-muted">Yoga is much more. In very simple words, giving care to your body, mind and breath is yoga.</i></p>
         <p><Link class="btn btn-light" to="/Yoga">View details &raquo;</Link></p>
       </div>
     </div>

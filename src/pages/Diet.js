@@ -21,7 +21,7 @@ import DateRangeIcon from '@mui/icons-material/DateRange';
       <div >
         <div class="carousel-caption text-start ">
           <h1 class="text-white"><RestaurantIcon color="secondary"/> DIET  </h1>
-          <h4><i class="text-white">If you want to know more about the concept of a yoga diet and exactly what kind of diet is best to complement your yoga practice, then you’re in the right place!</i></h4>
+          <h5><i class="text-white">If you want to know more about the concept of a yoga diet and exactly what kind of diet is best to complement your yoga practice, then you’re in the right place!</i></h5>
           
         </div>
       </div>
