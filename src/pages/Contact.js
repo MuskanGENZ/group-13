@@ -211,7 +211,7 @@ const Contact = () => {
                           class="form-check-label"
                           className="main-hero-para"
                         >
-                          I agree that the FITME may contact me at the email
+                          I agree that the YOGMAYA may contact me at the email
                           address or phone number above
                         </label>
                       </div>

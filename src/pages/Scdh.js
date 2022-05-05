@@ -21,7 +21,7 @@ const Scdh = () => {
       <div class="container">
         <div class="carousel-caption text-end">
           <h1 class="text-white">SCHEDULE </h1>
-          <h4><i class="text-white"> You’ve made the decision that now is the time to start yoga.</i></h4>
+          <h5><i class="text-white"> You’ve made the decision that now is the time to start yoga.</i></h5>
           
         </div>
       </div>

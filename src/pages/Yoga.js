@@ -107,7 +107,7 @@ const Yoga = () => {
     
           <div >
             <div class="carousel-caption text-start ">
-              <h1 class="text-white text-center">Yoga for Everyone  </h1>
+              <h2 class="text-white text-center">Yoga for Everyone  </h2>
            
               
               

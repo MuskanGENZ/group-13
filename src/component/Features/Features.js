@@ -89,7 +89,7 @@ const Features = () => {
            <span className="">Veer</span>
             </h2>
             <p className="lead">
-              <i className="text-muted">"I love the FITME experience. The authenticity, energy, expertise, TLC, inclusiveness, kindness, thoughtfulness are the type of things I appreciate the very most and you nurture that beautifully.I've developed my practice by attending a range of classes, but more importantly, I feel I've developed a deeper understanding of the art of yoga.I enjoy the variety of classes, I can always find a class that suits my mood perfectly."</i>
+              <i className="text-muted">"I love the YOGAMAYA experience. The authenticity, energy, expertise, TLC, inclusiveness, kindness, thoughtfulness are the type of things I appreciate the very most and you nurture that beautifully.I've developed my practice by attending a range of classes, but more importantly, I feel I've developed a deeper understanding of the art of yoga.I enjoy the variety of classes, I can always find a class that suits my mood perfectly."</i>
             </p>
           </div>
           <div className="col-md-5">
